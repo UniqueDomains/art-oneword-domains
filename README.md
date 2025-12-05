@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ART one-word domains still available to buy.
 
-This dataset contains 4,324 .ART one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,325 .ART one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ART one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=description.top) (4,325) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.ART one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/art-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.csv"><b>⬇️ CSV (4.32K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.json"><b>⬇️ JSON (4.32K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.33K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.ART one word domains]
 | aaa.art        | resell    | 70       | 38%    | 3      | Spaceship, Inc. | 07/02/2025 19:11 | 07/02/2026 23:59 |
 | abactinal.art  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.art      | premium   | 43       | 2%     | 5      |                 |                  |                  |
-| abandoned.art  | premium   | 58       | 10%    | 9      |                 |                  |                  |
+| abandoned.art  | premium   | 58       | 7%     | 9      |                 |                  |                  |
 | abashed.art    | available | 60       | 2%     | 7      |                 |                  |                  |
 | abasic.art     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abatable.art   | available | 54       | 1%     | 8      |                 |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.ART one word domains]
 | abbatial.art   | available | 50       | 1%     | 8      |                 |                  |                  |
 | abc.art        | available | 102      | 41%    | 3      |                 |                  |                  |
 | abdicable.art  | available | 50       | 1%     | 9      |                 |                  |                  |
-| abdominal.art  | premium   | 82       | 1%     | 9      |                 |                  |                  |
+| abdominal.art  | premium   | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.art | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.art   | premium   | 54       | 1%     | 8      |                 |                  |                  |
 | abducent.art   | available | 68       | 1%     | 8      |                 |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.ART one word domains]
 | aberdonian.art | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.art   | premium   | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.art    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.art  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.art  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abient.art     | available | 54       | 1%     | 6      |                 |                  |                  |
 | ability.art    | available | 92       | 18%    | 7      |                 |                  |                  |
 | abit.art       | available | 66       | 16%    | 5      |                 |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.ART one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/art-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.csv"><b>⬇️ CSV (4.32K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.json"><b>⬇️ JSON (4.32K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/art-oneword-domains/blob/main/art.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.33K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.ART one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
