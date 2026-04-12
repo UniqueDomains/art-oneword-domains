@@ -83,7 +83,7 @@ print(df.head())
 | explore.art    | resell    | —         | —             | 102            | 43     | 7      | NameSilo, LLC                             |
 | business.art   | premium   | $3,900    | $91           | 100            | 53     | 8      | namecheap                                 |
 | conclusive.art | available | $32.98    | —             | 69             | 6      | 10     | namecheap                                 |
-| atomic.art     | resell    | —         | —             | 84             | 43     | 6      | Namecheap                                 |
+| atomic.art     | resell    | —         | —             | 84             | 42     | 6      | Namecheap                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
