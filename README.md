@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .art one-word domains from Unique 
 
 **Public extract:** 8,727 rows · **Live catalog:** 8,726 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/art`  
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | contented.art  | available | $5.99     | $39.99        | 70             | 10     | 9      | name.com                                  |
 | with.art       | resell    | —         | —             | 98             | 74     | 4      | Spaceship, Inc.                           |
 | nationwide.art | premium   | $341.25   | $87.50        | 76             | 66     | 10     | name.com                                  |
-| manageable.art | available | $5.99     | $39.99        | 74             | 6      | 10     | name.com                                  |
+| earlier.art    | available | $5.99     | $39.99        | 66             | 7      | 7      | name.com                                  |
 | brain.art      | resell    | —         | —             | 70             | 49     | 5      | Go Daddy, LLC                             |
 | seventeen.art  | premium   | $341.25   | $87.50        | 84             | 62     | 9      | name.com                                  |
-| achievable.art | available | $5.99     | $39.99        | 74             | 6      | 10     | name.com                                  |
+| manageable.art | available | $5.99     | $39.99        | 74             | 6      | 10     | name.com                                  |
 | travel.art     | resell    | —         | —             | 115            | 48     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com   |
 | enterprise.art | premium   | $1,950    | $91           | 68             | 61     | 10     | namecheap                                 |
-| confirming.art | available | $5.99     | $39.99        | 73             | 6      | 10     | name.com                                  |
+| achievable.art | available | $5.99     | $39.99        | 74             | 6      | 10     | name.com                                  |
 | shift.art      | resell    | —         | —             | 70             | 46     | 5      | Dynadot LLC                               |
 | zero.art       | premium   | $3,125    | $87.50        | 112            | 53     | 4      | GMO Internet Group, Inc. d/b/a Onamae.com |
-| adjusted.art   | available | $5.99     | $39.99        | 70             | 6      | 8      | name.com                                  |
+| confirming.art | available | $5.99     | $39.99        | 73             | 6      | 10     | name.com                                  |
 | explore.art    | resell    | —         | —             | 102            | 43     | 7      | NameSilo, LLC                             |
 | business.art   | premium   | $3,900    | $91           | 100            | 53     | 8      | namecheap                                 |
-| modernday.art  | available | $5.99     | $39.99        | 70             | 6      | 10     | name.com                                  |
+| adjusted.art   | available | $5.99     | $39.99        | 70             | 6      | 8      | name.com                                  |
 | atomic.art     | resell    | —         | —             | 84             | 42     | 6      | Namecheap                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
