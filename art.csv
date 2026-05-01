@@ -53,6 +53,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04ea79fa-716a-4415-a88e-943a9ce01e4c,reflexes.art,premium,131.2,83.3,55,4,8,namesilo,,
 04ebb491-85c3-4ef8-a3c8-a51e21990f36,IsleofWight.art,premium,29.4,98,54,9,13,namecheap,,
 05400b06-37ee-4555-8f7a-b61994e8c34c,thieves.art,premium,341.25,,45,8,7,name.com,,
+0565f2bf-ca46-43ff-bdc9-4a6c1d341032,registered.art,premium,,,70,12,10,,,
 057d3300-ce03-45e7-be00-54f28006b630,dogwalking.art,premium,78.75,,94,8,10,name.com,,
 058059f0-0086-4491-9d69-9596b8129bda,newsletters.art,premium,29.4,98,63,15,11,namecheap,,
 0588d684-6b8d-4de2-bdfc-8ad7e7c22c4a,goingaway.art,premium,52.5,,54,1,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b6fe9cf-bfd0-4858-aba3-4f88531a0368,contacts.art,premium,131.2,83.3,54,20,8,namesilo,,
 5bb48277-b133-430b-96e2-b47657265a5d,drapes.art,premium,153.75,,76,5,6,name.com,,
 5bb9069f-61ca-4b11-8302-c3f4f07c2205,houses.art,premium,153.75,,66,18,6,name.com,,
-5bbfc6e7-72b8-435c-9523-b49a5adc7b58,lodged.art,premium,341.25,,60,2,6,name.com,,
