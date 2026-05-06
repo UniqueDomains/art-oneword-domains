@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .art one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,549 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,549 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,549 domains · **Median ask:** $300.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/art`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| primarycare.art     | available | $7.99     | —             | 81             | 11     | 12     | name.com      |
-| people.art          | resell    | —         | —             | 86             | 41     | 6      | Namecheap     |
-| winners.art         | premium   | $291.20   | $83.30        | 60             | 81     | 7      | namesilo      |
-| goeasy.art          | available | $7.99     | —             | 76             | 11     | 7      | name.com      |
-| prompts.art         | resell    | —         | —             | 54             | 39     | 7      | Dynadot LLC   |
-| nets.art            | premium   | $341.25   | —             | 54             | 81     | 4      | name.com      |
-| chiefofstaff.art    | available | $7.99     | —             | 60             | 9      | 14     | name.com      |
-| posters.art         | resell    | —         | —             | 60             | 13     | 7      | Porkbun, LLC  |
-| Spotify.art         | premium   | $382.20   | $98           | 78             | 69     | 7      | namecheap     |
-| lettherebelight.art | available | $7.99     | —             | 60             | 9      | 18     | name.com      |
-| exchanges.art       | resell    | —         | —             | 50             | 11     | 9      | Go Daddy, LLC |
-| regions.art         | premium   | $341.25   | —             | 64             | 59     | 7      | name.com      |
-| makewaves.art       | available | $7.99     | —             | 78             | 8      | 10     | name.com      |
-| shortcuts.art       | premium   | $153.75   | —             | 48             | 41     | 10     | name.com      |
-| launches.art        | available | $3.19     | $23.99        | 65             | 8      | 8      | namesilo      |
-| justin.art          | premium   | $1,875    | —             | 58             | 38     | 7      | name.com      |
-| wellbuilt.art       | available | $7.99     | —             | 78             | 7      | 10     | name.com      |
-| events.art          | premium   | $3,750    | —             | 68             | 37     | 6      | name.com      |
-| stayathome.art      | available | $7.99     | —             | 68             | 7      | 12     | name.com      |
-| homes.art           | premium   | $341.25   | —             | 86             | 34     | 5      | name.com      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| leaveon.art      | available | $7.99     | —             | 80             | 1      | 8      | name.com     |
+| fitinto.art      | available | $7.99     | —             | 84             | 2      | 8      | name.com     |
+| chaitea.art      | available | $7.99     | —             | 86             | 3      | 8      | name.com     |
+| bedframe.art     | available | $7.99     | —             | 80             | 3      | 9      | name.com     |
+| midautumn.art    | available | $7.99     | —             | 80             | 2      | 9      | name.com     |
+| herbaltea.art    | available | $7.99     | —             | 80             | 5      | 10     | name.com     |
+| makewhole.art    | available | $7.99     | —             | 80             | 2      | 10     | name.com     |
+| coffeewoman.art  | available | $7.99     | —             | 80             | 2      | 11     | name.com     |
+| comeonline.art   | available | $7.99     | —             | 80             | 2      | 11     | name.com     |
+| herbbutter.art   | available | $7.99     | —             | 80             | 1      | 11     | name.com     |
+| teeheehee.art    | available | $7.99     | —             | 88             | 1      | 11     | name.com     |
+| primarycare.art  | available | $7.99     | —             | 81             | 11     | 12     | name.com     |
+| people.art       | resell    | —         | —             | 86             | 42     | 6      | Namecheap    |
+| winners.art      | premium   | $291.20   | $83.30        | 60             | 81     | 7      | namesilo     |
+| goeasy.art       | available | $7.99     | —             | 76             | 11     | 7      | name.com     |
+| prompts.art      | resell    | —         | —             | 54             | 39     | 7      | Dynadot LLC  |
+| nets.art         | premium   | $341.25   | —             | 54             | 81     | 4      | name.com     |
+| chiefofstaff.art | available | $7.99     | —             | 60             | 9      | 14     | name.com     |
+| posters.art      | resell    | —         | —             | 60             | 13     | 7      | Porkbun, LLC |
+| Spotify.art      | premium   | $382.20   | $98           | 78             | 69     | 7      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,549 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,549 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of .art domains, so the main decision is not the extension but the quality of the string. Some names are short and abstract, while others are literal or phrase-like, such as dogsit.art or chaitea.art. That makes this selection useful for both buyers seeking a low-entry creative brand and investors testing whether a niche keyword in .art can clear at a sensible ask. With a median ask of 300.78, price discipline matters less than in premium .com, but renewal terms and real-world brand fit still matter. Favor names that are easy to say, easy to spell, and clearly usable in an art-adjacent context.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results are .art domains
+- Median ask across this selection is 300.78
+- Names range from abstract to literal phrase-based terms
+- Check spelling, niche fit, and renewal before deciding
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
