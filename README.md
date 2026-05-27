@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .art one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,560 domains · **Median ask:** $300.80 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/art`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | midautumn.art    | available | $7.99     | —             | 80             | 2      | 9      | name.com     |
 | herbaltea.art    | available | $7.99     | —             | 80             | 5      | 10     | name.com     |
 | makewhole.art    | available | $7.99     | —             | 80             | 1      | 10     | name.com     |
-| coffeewoman.art  | available | $7.99     | —             | 80             | 2      | 11     | name.com     |
+| coffeewoman.art  | available | $7.99     | —             | 80             | 1      | 11     | name.com     |
 | comeonline.art   | available | $7.99     | —             | 80             | 2      | 11     | name.com     |
 | herbbutter.art   | available | $7.99     | —             | 80             | 1      | 11     | name.com     |
 | teeheehee.art    | available | $7.99     | —             | 88             | 1      | 11     | name.com     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
