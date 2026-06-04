@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .art one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,560 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,560 domains · **Median ask:** $300.80 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,560 domains · **Median ask:** $488.03 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/art`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| leaveon.art      | available | $7.99     | —             | 80             | 1      | 8      | name.com     |
-| fitinto.art      | available | $7.99     | —             | 84             | 1      | 8      | name.com     |
-| chaitea.art      | available | $7.99     | —             | 86             | 3      | 8      | name.com     |
-| bedframe.art     | available | $7.99     | —             | 80             | 3      | 9      | name.com     |
-| midautumn.art    | available | $7.99     | —             | 80             | 2      | 9      | name.com     |
-| herbaltea.art    | available | $7.99     | —             | 80             | 5      | 10     | name.com     |
-| makewhole.art    | available | $7.99     | —             | 80             | 1      | 10     | name.com     |
-| coffeewoman.art  | available | $7.99     | —             | 80             | 1      | 11     | name.com     |
-| comeonline.art   | available | $7.99     | —             | 80             | 2      | 11     | name.com     |
-| herbbutter.art   | available | $7.99     | —             | 80             | 1      | 11     | name.com     |
-| teeheehee.art    | available | $7.99     | —             | 88             | 1      | 11     | name.com     |
-| primarycare.art  | available | $7.99     | —             | 81             | 11     | 12     | name.com     |
-| people.art       | resell    | —         | —             | 86             | 42     | 6      | Namecheap    |
-| winners.art      | premium   | $291.20   | $83.30        | 60             | 81     | 7      | namesilo     |
-| goeasy.art       | available | $7.99     | —             | 76             | 11     | 7      | name.com     |
-| prompts.art      | resell    | —         | —             | 54             | 39     | 7      | Dynadot LLC  |
-| nets.art         | premium   | $341.25   | —             | 54             | 81     | 4      | name.com     |
-| chiefofstaff.art | available | $7.99     | —             | 60             | 9      | 14     | name.com     |
-| posters.art      | resell    | —         | —             | 60             | 13     | 7      | Porkbun, LLC |
-| Spotify.art      | premium   | $382.20   | $98           | 78             | 69     | 7      | namecheap    |
+| domain          | status  | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| legislative.art | premium | $20.65    | $83.30        | 80             | 6      | 11     | namesilo  |
+| grand.art       | premium | $3,750    | $87.50        | 84             | 29     | 5      | name.com  |
+| grandparent.art | premium | $20.65    | $83.30        | 102            | 6      | 11     | namesilo  |
+| tall.art        | premium | $291.20   | $83.30        | 106            | 13     | 4      | namesilo  |
+| palliative.art  | premium | —         | —             | 84             | 6      | 10     | —         |
+| mecca.art       | premium | $3,750    | —             | 84             | 17     | 5      | name.com  |
+| capable.art     | premium | $341.25   | $87.50        | 80             | 16     | 7      | name.com  |
+| queen.art       | premium | $3,450    | $83.30        | 92             | 30     | 5      | namesilo  |
+| laugh.art       | premium | $291.20   | $83.30        | 108            | 14     | 5      | namesilo  |
+| enduring.art    | premium | —         | —             | 82             | 9      | 8      | —         |
+| granted.art     | premium | $41.30    | $83.30        | 80             | 11     | 7      | namesilo  |
+| final.art       | premium | $3,750    | $87.50        | 93             | 24     | 5      | name.com  |
+| sensory.art     | premium | $291.20   | $83.30        | 88             | 14     | 7      | namesilo  |
+| awesome.art     | premium | $291.20   | $83.30        | 98             | 44     | 7      | namesilo  |
+| wacky.art       | premium | $291.20   | $83.30        | 84             | 10     | 5      | namesilo  |
+| default.art     | premium | $1,875    | —             | 94             | 25     | 7      | name.com  |
+| outer.art       | premium | $291.20   | $83.30        | 88             | 12     | 5      | namesilo  |
+| disgrace.art    | premium | $291.20   | $83.30        | 82             | 4      | 8      | namesilo  |
+| lighten.art     | premium | $291.20   | $83.30        | 84             | 9      | 7      | namesilo  |
+| facts.art       | premium | $291.20   | $83.30        | 88             | 25     | 5      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
