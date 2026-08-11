@@ -1,10 +1,10 @@
-# Available .ART One-Word Domains (11,578)
+# Available .ART One-Word Domains (12,511)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C578%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C511%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .art one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,578 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,511 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,578 domains · **Median ask:** $441.24 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 12,511 domains · **Median ask:** $397.28 · **High-demand under $2,500:** 36
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/art`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | aftuh.art       | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                                |
 | applied.art     | resell    | —         | —             | low            | low    | 7      | Porkbun LLC                             |
 | dry.art         | premium   | $1,875    | $87.50        | high           | low    | 3      | name.com                                |
-| clxxv.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
+| balky.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
 | underwear.art   | resell    | —         | —             | medium         | low    | 9      | Instra Corporation Pty Ltd              |
 | dvd.art         | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                |
-| lxxii.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
+| clxxv.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
 | oilpainting.art | resell    | —         | —             | medium         | low    | 12     | Spaceship, Inc.                         |
 | ego.art         | premium   | $3,450    | $83.30        | medium         | low    | 3      | namesilo                                |
-| xciii.art       | available | $3.98     | $32.98        | low            | low    | 5      | namecheap                               |
+| lxxii.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
 | fit.art         | premium   | $3,450    | $83.30        | high           | medium | 3      | namesilo                                |
-| abatic.art      | available | $3.19     | $23.99        | low            | low    | 6      | namesilo                                |
+| xciii.art       | available | $3.98     | $32.98        | low            | low    | 5      | namecheap                               |
 | gal.art         | premium   | $1,662.50 | $83.30        | medium         | low    | 3      | namesilo                                |
-| aboral.art      | available | $3.19     | $23.99        | low            | low    | 6      | namesilo                                |
+| abatic.art      | available | $3.19     | $23.99        | low            | low    | 6      | namesilo                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,578 live domains                        |
+| 1,000-row public sample | 12,511 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 34 high-demand names under $2,500          |
+| Basic exported fields   | 36 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
