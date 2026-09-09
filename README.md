@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .art one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,218 domains · **Median ask:** $298.92 · **High-demand under $2,500:** 41
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/art`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| action.art      | premium   | $3,450    | $83.30        | high           | medium | 6      | namesilo                                |
 | clxx.art        | available | $3.19     | $23.99        | low            | low    | 4      | namesilo                                |
 | urban.art       | resell    | —         | —             | medium         | low    | 5      | Porkbun, LLC                            |
 | add.art         | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                |
@@ -84,6 +83,7 @@ print(df.head())
 | fit.art         | premium   | $3,450    | $83.30        | high           | medium | 3      | namesilo                                |
 | xciii.art       | available | $3.98     | $32.98        | low            | low    | 5      | namecheap                               |
 | gal.art         | premium   | $1,662.50 | $83.30        | medium         | low    | 3      | namesilo                                |
+| abatic.art      | available | $3.19     | $23.99        | low            | low    | 6      | namesilo                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
