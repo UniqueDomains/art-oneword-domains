@@ -1,10 +1,10 @@
-# Available .ART One-Word Domains (20,468)
+# Available .ART One-Word Domains (21,165)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C468%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C165%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .art one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,468 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,165 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,468 domains · **Median ask:** $286.39 · **High-demand under $2,500:** 43
+**Public extract:** 1,000 rows · **Live catalog:** 21,165 domains · **Median ask:** $280.07 · **High-demand under $2,500:** 44
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/art`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
+| action.art      | premium   | $3,450    | $83.30        | high           | medium | 6      | namesilo                                |
+| something.art   | premium   | $341.25   | —             | high           | low    | 9      | name.com                                |
 | clxx.art        | available | $3.19     | $23.99        | low            | low    | 4      | namesilo                                |
 | urban.art       | resell    | —         | —             | medium         | low    | 5      | Porkbun, LLC                            |
 | add.art         | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                |
@@ -82,8 +84,6 @@ print(df.head())
 | lxxii.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
 | fit.art         | premium   | $3,450    | $83.30        | high           | medium | 3      | namesilo                                |
 | xciii.art       | available | $3.98     | $32.98        | low            | low    | 5      | namecheap                               |
-| gal.art         | premium   | $1,662.50 | $83.30        | medium         | low    | 3      | namesilo                                |
-| abatic.art      | available | $3.19     | $23.99        | low            | low    | 6      | namesilo                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,468 live domains                        |
+| 1,000-row public sample | 21,165 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 43 high-demand names under $2,500          |
+| Basic exported fields   | 44 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
