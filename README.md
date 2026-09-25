@@ -1,10 +1,10 @@
-# Available .ART One-Word Domains (28,532)
+# Available .ART One-Word Domains (31,088)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C532%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C088%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .art one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,532 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,088 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,532 domains · **Median ask:** $232.16 · **High-demand under $2,500:** 36
+**Public extract:** 1,000 rows · **Live catalog:** 31,088 domains · **Median ask:** $229.76 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/art`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| something.art   | premium   | $341.25   | —             | high           | low    | 9      | name.com                                |
-| express.art     | available | —         | —             | high           | low    | 7      | —                                       |
-| clxx.art        | available | $3.19     | $23.99        | low            | low    | 4      | namesilo                                |
-| urban.art       | resell    | —         | —             | medium         | low    | 5      | Porkbun, LLC                            |
-| add.art         | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                |
-| lxxi.art        | available | $3.19     | $23.99        | low            | low    | 4      | namesilo                                |
-| travel.art      | resell    | —         | —             | high           | medium | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| dad.art         | premium   | $1,662.50 | $83.30        | high           | low    | 3      | namesilo                                |
-| aftuh.art       | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                                |
-| applied.art     | resell    | —         | —             | low            | low    | 7      | Porkbun LLC                             |
-| dry.art         | premium   | $1,875    | $87.50        | high           | low    | 3      | name.com                                |
-| balky.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
-| underwear.art   | resell    | —         | —             | medium         | low    | 9      | Instra Corporation Pty Ltd              |
-| dvd.art         | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                |
-| clxxv.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
-| oilpainting.art | resell    | —         | —             | medium         | low    | 12     | Spaceship, Inc.                         |
-| ego.art         | premium   | $3,450    | $83.30        | medium         | low    | 3      | namesilo                                |
-| lxxii.art       | available | $3.19     | $23.99        | low            | low    | 5      | namesilo                                |
-| fit.art         | premium   | $3,450    | $83.30        | high           | medium | 3      | namesilo                                |
-| xciii.art       | available | $3.98     | $32.98        | low            | low    | 5      | namecheap                               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| clxx.art      | available | $3.19     | $23.99        | medium         | low    | 4      | namesilo                                    |
+| brain.art     | resell    | —         | —             | high           | medium | 5      | Go Daddy, LLC                               |
+| add.art       | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                    |
+| lxxi.art      | available | $3.19     | $23.99        | medium         | low    | 4      | namesilo                                    |
+| urban.art     | resell    | —         | —             | high           | low    | 5      | Porkbun, LLC                                |
+| ann.art       | premium   | $1,662.50 | $83.30        | high           | low    | 3      | namesilo                                    |
+| balky.art     | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                                    |
+| vivid.art     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                             |
+| ate.art       | premium   | $1,662.50 | $83.30        | high           | low    | 3      | namesilo                                    |
+| clxxv.art     | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                                    |
+| tomato.art    | resell    | —         | —             | high           | low    | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| bce.art       | premium   | $291.20   | $83.30        | high           | low    | 3      | namesilo                                    |
+| ilxxx.art     | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap                                   |
+| anatomy.art   | resell    | —         | —             | high           | low    | 7      | Instra Corporation Pty Ltd                  |
+| boo.art       | premium   | $1,875    | —             | high           | low    | 3      | name.com                                    |
+| lxxxv.art     | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap                                   |
+| applied.art   | resell    | —         | —             | high           | low    | 7      | Porkbun LLC                                 |
+| bus.art       | premium   | $3,450    | $83.30        | high           | low    | 3      | namesilo                                    |
+| mushy.art     | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                                    |
+| underwear.art | resell    | —         | —             | high           | low    | 9      | Instra Corporation Pty Ltd                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,532 live domains                        |
+| 1,000-row public sample | 31,088 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 36 high-demand names under $2,500          |
+| Basic exported fields   | 33 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
