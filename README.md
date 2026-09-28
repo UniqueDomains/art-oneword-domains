@@ -1,10 +1,10 @@
-# Available .ART One-Word Domains (21,932)
+# Available .ART One-Word Domains (22,354)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C932%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C354%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .art one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,932 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,354 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,932 domains · **Median ask:** $382.95 · **High-demand under $2,500:** 77
+**Public extract:** 1,000 rows · **Live catalog:** 22,354 domains · **Median ask:** $385.04 · **High-demand under $2,500:** 80
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/art`
@@ -72,17 +72,17 @@ print(df.head())
 | aus.art     | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
 | jural.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
 | florida.art | resell    | —         | —             | high           | medium | 7      | Instra Corporation Pty Ltd. |
-| bob.art     | premium   | $1,950    | $91           | high           | medium | 3      | namecheap                   |
+| bmw.art     | premium   | $282.76   | $72.65        | high           | high   | 3      | spaceship                   |
 | nubby.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| cbc.art     | premium   | $291.20   | $83.30        | high           | low    | 3      | namesilo                    |
+| bob.art     | premium   | $1,950    | $91           | high           | medium | 3      | namecheap                   |
 | uveal.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| dud.art     | premium   | $341.25   | $87.50        | high           | low    | 3      | name.com                    |
+| cbc.art     | premium   | $291.20   | $83.30        | high           | low    | 3      | namesilo                    |
 | vagal.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| fla.art     | premium   | $1,662.50 | $83.30        | high           | low    | 3      | namesilo                    |
+| dud.art     | premium   | $341.25   | $87.50        | high           | low    | 3      | name.com                    |
 | alkene.art  | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
-| gap.art     | premium   | $291.20   | $83.30        | high           | high   | 3      | namesilo                    |
+| fla.art     | premium   | $1,662.50 | $83.30        | high           | low    | 3      | namesilo                    |
 | antido.art  | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
-| hiv.art     | premium   | $291.20   | $83.30        | high           | low    | 3      | namesilo                    |
+| gap.art     | premium   | $291.20   | $83.30        | high           | high   | 3      | namesilo                    |
 | aramus.art  | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,932 live domains                        |
+| 1,000-row public sample | 22,354 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 77 high-demand names under $2,500          |
+| Basic exported fields   | 80 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
