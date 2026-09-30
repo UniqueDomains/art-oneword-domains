@@ -1,19 +1,22 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+0628f39f-0d17-4c3d-8eee-850fc1cdf50d,partido.art,premium,102.7,,medium,low,7,unstoppable,,,29/09/2026 08:45
 5b88cf1a-3d50-4bb1-8d43-3c64ea49b8d0,hooper.art,premium,227.7,,medium,low,6,unstoppable,,,29/09/2026 02:55
 61e40ec5-0553-48ba-8798-1cab198bd34f,laurie.art,premium,354.9,91,high,low,6,namecheap,,,25/09/2026 17:15
 93fbc152-5585-4901-9c40-7c181b365884,orchis.art,premium,131.2,83.3,medium,low,6,namesilo,,,21/09/2026 23:07
 8cee58a8-9fe0-4492-ae76-be624293f466,nickname.art,premium,354.9,91,high,low,8,namecheap,,,24/09/2026 11:25
 4d6171d5-d0dd-47d4-b8c8-a2466d37aa3c,specular.art,premium,131.2,83.3,medium,low,8,namesilo,,,25/08/2026 01:15
-c82d7e0a-00c5-4901-bd3d-38daa592e2da,invasive.art,premium,131.2,83.3,medium,low,8,namesilo,,,16/08/2026 23:54
+1ab3c2b9-dff0-4ee1-9a10-c19dceea0e3d,deerfield.art,premium,127.51,72.65,high,low,9,spaceship,,,29/09/2026 10:06
+c82d7e0a-00c5-4901-bd3d-38daa592e2da,invasive.art,premium,131.2,83.3,high,low,8,namesilo,,,16/08/2026 23:54
+3de0e76b-6193-42f6-a58c-691bfaa8d941,andrade.art,premium,282.76,72.65,medium,low,7,spaceship,,,29/09/2026 10:57
 ec4fc624-8ed1-4710-8e2e-cd39744b5265,livery.art,premium,291.2,83.3,high,low,6,namesilo,,,24/08/2026 08:06
 f1d19e48-16bc-48e6-b23a-fec76334a687,archosaur.art,available,3.19,23.99,medium,low,9,namesilo,,,06/08/2026 15:57
 c4c79af9-a422-4558-b9c9-96cdcab0822e,furnace.art,premium,348.17,76.94,high,low,7,porkbun,,,28/09/2026 19:17
 18790a28-e0c8-413a-b30c-fe68f7b2439b,overwhelmed.art,available,3.19,23.99,medium,low,11,namesilo,,,
+71d4489b-0b0d-4a7b-9905-e9017a6d08a1,hearn.art,premium,135.3,77,high,low,5,dynadot,,,29/09/2026 15:40
 94d979d2-cd49-4c68-ab65-af1b8aed43fb,abroach.art,available,3.19,23.99,medium,low,7,namesilo,,,
 6841f1bd-ed8b-4e0e-a1bd-7e2e799ae0d3,childly.art,available,3.19,23.99,medium,low,7,namesilo,,,12/08/2026 05:14
 66a701a2-b321-426a-94d0-4fef9f3d47c0,backyard.art,premium,341.25,87.5,high,low,9,name.com,,,21/09/2026 16:22
 275a4ff6-7b9d-4669-85db-a8fd9b4425d1,beriberi.art,premium,62.48,83.3,medium,low,8,namesilo,,,23/09/2026 09:23
-a417df5c-ab32-4f45-b6ce-68e0ac7d6358,hell.art,available,,,high,low,4,,,,
 73f9e90a-dd59-4b6e-9b0f-91c08d056b7d,celebrated.art,premium,291.2,83.3,high,low,10,namesilo,,,11/08/2026 23:10
 6a2cb5eb-a6b2-4cfd-9db5-eefb1dd8fdd2,pinch.art,premium,282.76,72.65,high,low,5,spaceship,,,28/09/2026 22:16
 81c9c85a-9c3c-4464-be65-ed75fac931f4,afford.art,premium,291.2,83.3,high,low,6,namesilo,,,25/09/2026 11:07
@@ -21,7 +24,7 @@ f0f1e3b8-474d-437e-94d2-4af78b2f9e20,uveal.art,available,3.19,23.99,medium,low,5
 ad16cf50-3b90-4987-ae42-cd09ce320d1d,xanax.art,premium,354.9,91,medium,low,5,namecheap,,,18/09/2026 14:09
 44e6bdbc-541d-42ec-a552-3cd713948892,airstrip.art,premium,131.2,83.3,high,low,8,namesilo,,,17/09/2026 23:24
 92176939-87bc-45d9-a0bf-153859d7b70e,malvern.art,premium,127.51,72.65,medium,low,7,spaceship,,,28/09/2026 16:50
-437b66ae-5c34-48b2-9d35-170d8e9efc02,rutland.art,premium,159.9,91,medium,low,7,namecheap,,,27/09/2026 05:16
+437b66ae-5c34-48b2-9d35-170d8e9efc02,rutland.art,premium,159.9,91,high,low,7,namecheap,,,27/09/2026 05:16
 a0db057d-a50f-44e7-8a4e-c8c44e1f00be,vaughn.art,premium,291.2,83.3,high,low,6,namesilo,,,27/09/2026 11:16
 4925742c-bf6a-47b6-973e-eb9f7cd24120,damian.art,premium,282.76,72.65,medium,low,6,spaceship,,,28/09/2026 21:56
 e05869b7-1c2e-4b0a-b45e-1f14467eb3db,hugging.art,premium,62.48,83.3,high,low,7,namesilo,,,24/09/2026 12:55
@@ -32,10 +35,11 @@ d764b2b1-fc30-4741-93ee-7cd0ddfdcdaa,keane.art,premium,348.17,76.94,medium,low,5
 319e4d4a-2308-4a2a-9ec6-327525cd9a31,anlage.art,premium,131.2,83.3,medium,low,6,namesilo,,,19/09/2026 09:53
 7092080a-7bb9-48ae-90a0-408851bfeb09,exams.art,premium,227.7,,medium,low,5,unstoppable,,,28/09/2026 23:32
 57511752-8857-4b99-8b04-2cc46b1355c6,pigeons.art,premium,131.2,83.3,medium,low,7,namesilo,,,20/09/2026 07:08
-356cc0bb-d760-4b33-bd5b-6d320a65f115,chew.art,premium,291.2,83.3,high,low,4,namesilo,,,
+356cc0bb-d760-4b33-bd5b-6d320a65f115,chew.art,premium,227.7,83.3,high,low,4,unstoppable,,,29/09/2026 08:20
 b3fedc63-eea1-4f54-a866-bc0df2a2d2a7,marred.art,available,3.19,23.99,medium,low,6,namesilo,,,24/08/2026 16:28
 08134204-a349-4dc9-8770-5e7c533fd53e,siris.art,premium,159.9,91,high,low,5,namecheap,,,18/09/2026 03:05
 4ea5902b-0887-49e1-b526-d756b9a524db,gallstone.art,premium,62.48,83.3,medium,low,9,namesilo,,,23/09/2026 15:46
+e6651e5d-e5cc-41ab-af18-37d842f84578,prosper.art,premium,354.9,91,high,low,7,namecheap,,,29/09/2026 20:45
 a7ed5c62-2f5b-45ea-b385-faa337efa88e,enjoys.art,premium,41.3,83.3,medium,low,6,namesilo,,,28/09/2026 23:12
 bbb11512-b9c8-4eb2-b1d9-4dc97bcfaf0f,encyclical.art,premium,41.3,83.3,medium,low,10,namesilo,,,17/08/2026 00:42
 2a039f3a-83d0-47de-83c6-9130efbc4aff,innocuous.art,available,3.19,23.99,high,low,9,namesilo,,,22/08/2026 05:56
@@ -44,6 +48,7 @@ bbb11512-b9c8-4eb2-b1d9-4dc97bcfaf0f,encyclical.art,premium,41.3,83.3,medium,low
 75c7b05e-03c8-420c-a989-c9fcd9ce71b4,urban.art,resell,,,high,low,5,Porkbun LLC,28/04/2021 19:03,28/04/2027 23:59,28/09/2026 10:00
 954be973-eb1f-44c3-a1a0-b0343b7bcb75,baneberry.art,available,3.98,32.98,medium,low,9,namecheap,,,22/09/2026 01:43
 e95c4c31-9b60-4ae9-bed6-0ebbc67f412b,equestrian.art,premium,291.2,83.3,high,low,10,namesilo,,,17/08/2026 11:42
+f98af2d9-8f68-44ec-8ee3-228c849c621f,henan.art,premium,227.7,,medium,low,5,unstoppable,,,29/09/2026 15:30
 0ef7dd94-205d-4786-b6cf-673ab3f6f3cc,keenness.art,available,3.19,23.99,high,low,8,namesilo,,,21/09/2026 09:30
 4ceb4431-e222-4ba5-83da-b507e632e333,hardback.art,premium,41.3,83.3,medium,low,8,namesilo,,,21/08/2026 00:40
 cae43bba-d43a-4ddb-ac99-5e9df1ce03a8,austen.art,premium,291.2,83.3,high,low,6,namesilo,,,21/09/2026 04:37
@@ -57,21 +62,22 @@ e82dcfb8-e65f-47c0-8373-9810dd6ad682,cleverness.art,premium,62.48,83.3,high,low,
 59f5efc8-901f-4a94-ba22-ab8942823717,jaguars.art,premium,291.2,83.3,medium,low,7,namesilo,,,20/09/2026 09:28
 323c6e80-8f8a-4048-bfe8-c1dfa441e98d,anticipant.art,available,3.19,23.99,medium,low,10,namesilo,,,
 e2fce47e-38d1-46e9-ba07-491e19399811,alkene.art,available,3.19,23.99,medium,low,6,namesilo,,,18/09/2026 08:28
+dc6f0039-f6f4-4a16-97e8-486a414fb541,recruits.art,premium,52.7,,medium,low,8,unstoppable,,,29/09/2026 17:46
 61ab0072-3050-4be6-b6e5-4bd869121fdf,diode.art,premium,354.9,91,high,low,5,namecheap,,,24/09/2026 20:00
 f35df7b9-3042-44ef-974d-211957e54384,provisions.art,premium,41.3,83.3,high,low,10,namesilo,,,08/09/2026 08:15
 4f487b55-22d0-441a-b7b9-b5d87e2dd123,bohme.art,premium,62.48,83.3,high,low,5,namesilo,,,23/09/2026 03:34
 31d11389-7247-443a-9b3c-88bb5204960c,population.art,premium,291.2,83.3,high,low,10,namesilo,,,27/09/2026 05:04
 04425be4-f212-4ffd-bcd6-7f46c2f186de,bower.art,premium,291.2,83.3,medium,low,5,namesilo,,,20/09/2026 00:59
 9d4ea50e-a4b4-4668-829a-c8ccc22dfc47,definitely.art,premium,291.2,83.3,high,low,10,namesilo,,,28/09/2026 13:38
-fea3e47f-5773-44a1-877b-5ac60dcd2a71,tongue.art,premium,341.25,,high,low,6,name.com,,,
 d3324b99-9639-4103-974c-2df5515146ea,anzio.art,premium,291.2,83.3,medium,low,5,namesilo,,,19/09/2026 16:01
 2d78727a-afaf-47ea-b214-58cf2ef9d4a5,smitten.art,premium,52.5,87.5,high,low,7,name.com,,,16/08/2026 21:16
 c3deffa0-fe99-4f5a-8dbd-36c9c8366a87,marginal.art,premium,291.2,83.3,high,low,8,namesilo,,,23/09/2026 00:04
 f6476ab4-d463-41cb-b50a-477b31e8c52b,wrestle.art,premium,52.7,,high,low,7,unstoppable,,,29/09/2026 01:07
 b0199d97-fdf7-48f6-83e9-b66f5d790c7c,tailed.art,available,3.19,23.99,medium,low,6,namesilo,,,11/09/2026 07:08
+32aecc8a-1c64-4f40-8ba2-60300deb167e,components.art,premium,300.3,77,medium,low,10,dynadot,,,29/09/2026 16:20
 c1c207c9-b4f6-4ea5-b518-170dacf38dc6,attilio.art,premium,131.2,83.3,medium,low,7,namesilo,,,21/09/2026 01:49
 2c80ee81-9774-4f14-8311-e0be02db1fb3,aluminous.art,available,3.19,23.99,medium,low,9,namesilo,,,
-374dd3fe-8a6b-4a93-8db7-3dbf60be1ef9,fading.art,premium,354.9,91,medium,low,6,namecheap,,,21/09/2026 01:33
+374dd3fe-8a6b-4a93-8db7-3dbf60be1ef9,fading.art,premium,354.9,91,high,low,6,namecheap,,,21/09/2026 01:33
 66b09447-ab44-471a-b1f5-51cb3de0f5ec,reunion.art,premium,291.2,83.3,high,medium,7,namesilo,,,
 6846cd72-7e73-4414-9145-8d2398d159de,vermicular.art,premium,62.48,83.3,medium,low,10,namesilo,,,13/09/2026 02:27
 6c0c9457-5663-4fef-b1d3-7f5380b4c14f,winchester.art,premium,300.3,77,high,low,10,dynadot,,,28/09/2026 03:16
@@ -86,13 +92,14 @@ e424725a-41ce-424b-82e9-5726dc65e8fe,aire.art,premium,291.2,83.3,high,low,4,name
 3079f50f-c395-48a0-8c47-f9c034bebcb1,unnerving.art,available,3.19,23.99,high,medium,9,namesilo,,,09/09/2026 12:23
 85eda4b3-7db3-485e-af93-7483d24ac287,barrister.art,premium,291.2,83.3,high,low,9,namesilo,,,22/09/2026 08:39
 30f4be98-0d6e-490e-b16d-b11505e8e809,adjust.art,premium,282.76,72.65,high,low,6,spaceship,,,28/09/2026 11:09
+444aa76f-2872-4d2e-991c-ba36e94c5b06,romano.art,premium,291.2,83.3,high,low,6,namesilo,,,29/09/2026 10:38
 b6fac428-0286-493f-9c94-364dec6ac4e4,effete.art,available,3.98,32.98,low,low,6,namecheap,,,13/08/2026 20:52
 250cc7e1-af47-4291-99b8-8ba7164b207d,planless.art,available,3.19,23.99,medium,low,8,namesilo,,,
 e59af31d-7921-4613-a9fd-a16098644a0b,guile.art,premium,131.2,83.3,medium,low,5,namesilo,,,13/08/2026 10:41
 ed377042-c172-4753-87ef-61bfe73dd385,gobsmacked.art,available,3.19,23.99,high,low,10,namesilo,,,20/08/2026 16:00
 6707d957-fe14-49b9-bf7a-e63f6400e8ad,ridiculous.art,premium,341.25,87.5,high,low,10,name.com,,,24/09/2026 06:27
 6ac3e375-0fa2-4313-8b2f-5ba1af530462,talk.art,available,,,high,low,4,,,,
-fe953e09-88b1-4c20-9915-01170346c32b,fellows.art,premium,62.48,83.3,medium,low,7,namesilo,,,25/09/2026 13:03
+fe953e09-88b1-4c20-9915-01170346c32b,fellows.art,premium,62.48,83.3,high,low,7,namesilo,,,25/09/2026 13:03
 7cbe6117-97e8-48af-8f44-e8d055b8252f,multiplication.art,premium,20.65,83.3,medium,low,14,namesilo,,,
 77df503d-8756-4ee1-a48d-05052fe1c23b,beryllium.art,premium,159.9,91,medium,low,9,namecheap,,,20/09/2026 23:00
 c720f0c6-09e6-4bb8-b59e-50f55975cdc4,delible.art,available,3.19,23.99,low,low,7,namesilo,,,14/08/2026 00:35
@@ -105,6 +112,7 @@ a121013c-6074-4c20-93bc-45bfc5b85989,caesar.art,premium,291.2,83.3,high,low,6,na
 c8e787a3-d776-47e6-aa7b-3974eac92e23,honeyed.art,premium,41.3,83.3,medium,low,7,namesilo,,,21/08/2026 13:23
 1699601e-26d1-48e0-b8f7-9b635faccb15,palpatory.art,available,3.19,23.99,medium,low,9,namesilo,,,05/09/2026 00:12
 31817461-73c7-47ed-a326-ee0aaad0a380,dinar.art,premium,291.2,83.3,high,low,5,namesilo,,,18/09/2026 07:02
+723d1994-3e57-480f-8aeb-bde0e66732e3,format.art,premium,354.9,91,high,low,6,namecheap,,,29/09/2026 18:35
 0aa61f7d-2a2c-4b11-8690-c094908613f9,shack.art,premium,291.2,83.3,high,low,5,namesilo,,,24/09/2026 23:26
 62e88acc-0852-491c-a2d0-628ec8ce58e8,temper.art,premium,291.2,83.3,high,low,6,namesilo,,,27/09/2026 04:28
 82ca89f8-47e1-43d1-a81e-9b1d20efde76,roseate.art,available,3.19,23.99,high,medium,7,namesilo,,,09/09/2026 18:40
@@ -112,26 +120,27 @@ c8e787a3-d776-47e6-aa7b-3974eac92e23,honeyed.art,premium,41.3,83.3,medium,low,7,
 4d8acf34-037f-40e6-9a96-cece522ebafb,dismantled.art,premium,131.2,83.3,medium,low,10,namesilo,,,14/08/2026 01:22
 3e4120b0-3679-4fdc-8e64-12c814a1b86d,gaps.art,premium,131.2,83.3,medium,low,4,namesilo,,,20/09/2026 11:47
 2a79e7a3-f380-4102-969d-dc1be306048a,depends.art,premium,354.9,91,medium,low,7,namecheap,,,25/09/2026 20:36
-96fe9742-1a10-4843-9ff9-2ca4e6391caf,knitted.art,premium,291.2,83.3,medium,low,7,namesilo,,,22/08/2026 16:27
+96fe9742-1a10-4843-9ff9-2ca4e6391caf,knitted.art,premium,291.2,83.3,high,low,7,namesilo,,,22/08/2026 16:27
 de2c8b61-620c-4a35-9607-6bbc73334479,magicians.art,premium,354.9,91,medium,low,9,namecheap,,,20/09/2026 20:54
 15afd41c-267a-4891-b731-dbf3cdf911f0,chelsea.art,premium,3450,83.3,high,low,7,namesilo,,,25/09/2026 14:48
+1b6ffbc5-e586-4a14-bd77-b6a07d0f90c5,defiance.art,premium,291.2,83.3,medium,low,8,namesilo,,,29/09/2026 12:02
 74855abe-cfc2-49b9-bba3-a3c157c2dcf5,pigheaded.art,available,3.19,23.99,medium,low,9,namesilo,,,11/08/2026 08:32
 5545a514-4bfa-4c64-9be0-600962bd549d,discordant.art,available,3.19,23.99,medium,low,10,namesilo,,,14/08/2026 10:00
 64daca59-b31e-4dd5-85de-73711edf4795,untitled.art,premium,3450,83.3,high,low,8,namesilo,,,12/09/2026 11:12
-e1ec9265-b7aa-466a-a907-a21d1fb80864,fearlessly.art,available,3.19,23.99,medium,low,10,namesilo,,,14/09/2026 10:44
+e1ec9265-b7aa-466a-a907-a21d1fb80864,fearlessly.art,available,3.19,23.99,high,low,10,namesilo,,,14/09/2026 10:44
 5786f037-b85a-412b-87d9-edc5da4ce92b,minutes.art,premium,131.2,83.3,high,low,7,namesilo,,,
 b79f4ce7-ad24-4f7a-b058-64e6b8a867a8,thelma.art,premium,291.2,83.3,medium,low,6,namesilo,,,28/09/2026 21:54
 21d5d731-d4fb-4311-a79d-34c190e80035,slug.art,premium,354.9,91,high,low,4,namecheap,,,23/09/2026 13:52
-f2a4adcb-7b53-4e74-955c-ddde4ef8cb17,amble.art,premium,131.2,83.3,medium,low,5,namesilo,,,18/09/2026 16:54
+f2a4adcb-7b53-4e74-955c-ddde4ef8cb17,amble.art,premium,131.2,83.3,high,low,5,namesilo,,,18/09/2026 16:54
 09f2df91-0026-493f-b573-6f2109b664c2,michaels.art,premium,131.2,83.3,high,high,8,namesilo,,,27/09/2026 22:11
 78988cec-4a9d-4f9b-8e89-8ea6c54fe616,misguided.art,premium,153.75,87.5,medium,low,9,name.com,,,21/08/2026 18:57
 e952c11c-59f3-4861-9a13-230e189b40fc,vomit.art,premium,291.2,83.3,high,medium,5,namesilo,,,10/09/2026 07:32
-1e84b020-3ad3-43eb-b58a-3795feea38c4,dowry.art,premium,62.48,83.3,medium,low,5,namesilo,,,24/09/2026 23:36
+1e84b020-3ad3-43eb-b58a-3795feea38c4,dowry.art,premium,62.48,83.3,high,low,5,namesilo,,,24/09/2026 23:36
 6668f06a-ca1c-410f-9133-c62c97db0725,sprayer.art,premium,131.2,83.3,high,low,7,namesilo,,,21/09/2026 00:21
 931ebefb-2bf3-46aa-b953-e6ff395d2014,vantage.art,premium,291.2,83.3,high,medium,7,namesilo,,,17/09/2026 10:29
 912c01b6-b34e-407a-9ed0-41bb6ff9ec80,dudley.art,premium,291.2,83.3,medium,low,6,namesilo,,,28/09/2026 12:03
 c5bba255-529c-4343-9dee-562051b03f5a,ranted.art,premium,291.2,83.3,low,low,6,namesilo,,,20/09/2026 16:55
-c430ac6d-a032-4ffd-9a12-5fe112725661,slot.art,premium,3450,83.3,high,low,4,namesilo,,,
+c430ac6d-a032-4ffd-9a12-5fe112725661,slot.art,premium,3824.21,76.94,high,medium,4,porkbun,,,29/09/2026 18:36
 2ebf6e55-796d-43c2-ae09-16d79fcd9fbe,yesterday.art,premium,227.7,83.3,high,low,9,unstoppable,,,28/09/2026 16:50
 b975748c-e7f9-4251-be50-b2867d7ff724,yeoman.art,premium,131.2,83.3,medium,low,6,namesilo,,,23/09/2026 01:07
 21c1d570-abae-4ada-a158-593c49c3392f,laurent.art,premium,291.2,83.3,medium,low,7,namesilo,,,27/09/2026 09:55
@@ -141,16 +150,18 @@ a7cddd61-506c-44ce-936a-79352c2f40aa,belgrade.art,premium,291.2,83.3,high,low,8,
 376d3637-a768-4009-9422-5fb8e2ef4199,lookup.art,premium,291.2,83.3,high,low,7,namesilo,,,
 86ec6bb3-6868-4e97-ab98-685cafbd87e2,stolid.art,premium,41.3,83.3,medium,low,6,namesilo,,,21/08/2026 21:51
 4eab965b-306b-4e05-9c71-b33f939a5cb7,immaterial.art,premium,78.75,87.5,medium,low,10,name.com,,,17/08/2026 19:22
-74687443-5885-4dd7-9df2-e62fc6db2b6e,inflected.art,available,3.19,23.99,medium,low,9,namesilo,,,22/08/2026 04:31
-1087dd91-77ee-4bfc-9361-e2a80460713c,cns.art,premium,354.9,91,medium,low,3,namecheap,,,28/09/2026 09:21
+74687443-5885-4dd7-9df2-e62fc6db2b6e,inflected.art,available,3.19,23.99,high,low,9,namesilo,,,22/08/2026 04:31
+1087dd91-77ee-4bfc-9361-e2a80460713c,cns.art,premium,354.9,91,high,low,3,namecheap,,,28/09/2026 09:21
 106509ed-2ef5-40c4-83fa-9b4496daa131,munich.art,premium,18750,,high,low,6,name.com,,,
 bc44185e-e75e-4bd5-abc5-502f5953e9a2,pyrrhic.art,premium,62.48,83.3,medium,low,7,namesilo,,,09/09/2026 07:12
 239186a7-dce3-4f06-8093-af6de77a6a7e,scorched.art,premium,291.2,83.3,medium,low,8,namesilo,,,
 b4132b74-815f-4c09-a1ac-609b964e57e4,reverend.art,premium,291.2,83.3,high,low,8,namesilo,,,09/09/2026 16:06
+d7134305-20f8-46f9-8ea2-352cdca63708,silvia.art,premium,291.2,83.3,medium,low,6,namesilo,,,29/09/2026 12:28
 84441dd5-d8ce-4c7f-93e7-5906f75dccfe,saleable.art,premium,81.9,91,high,medium,8,namecheap,,,09/09/2026 20:51
 be1c66f3-3230-44a7-a3fa-5b53ac8efecf,matte.art,premium,291.2,83.3,high,low,5,namesilo,,,25/09/2026 17:39
 3bc8449b-4745-4358-b65a-5a3f999aafc0,classy.art,premium,291.2,83.3,high,low,6,namesilo,,,12/08/2026 09:52
 9e9ea876-2c22-4b75-9cc0-704b64813969,dissimilar.art,premium,62.48,83.3,medium,low,10,namesilo,,,14/08/2026 12:48
+6a0373d8-f128-4698-ae29-42cb68fbb916,williamstown.art,premium,21.94,72.65,medium,low,12,spaceship,,,29/09/2026 22:48
 32623d5a-f4cd-4159-b292-fb852af29896,tin.art,premium,227.7,83.3,high,low,3,unstoppable,,,28/09/2026 23:00
 927c16c8-c245-463a-8408-d12da2a582d0,shortly.art,premium,102.7,83.3,medium,low,7,unstoppable,,,28/09/2026 13:26
 0f1073bd-8a86-4d24-8f31-ff49ea939f94,overbold.art,available,3.98,32.98,medium,low,8,namecheap,,,04/09/2026 20:21
@@ -159,9 +170,9 @@ be1c66f3-3230-44a7-a3fa-5b53ac8efecf,matte.art,premium,291.2,83.3,high,low,5,nam
 287a55d5-f06e-4773-a771-73160a0d93d6,unmixed.art,premium,62.48,83.3,medium,low,7,namesilo,,,12/09/2026 06:02
 f8531704-ef0f-4054-a78c-97e93136ca4c,aerobics.art,premium,291.2,83.3,high,low,8,namesilo,,,17/09/2026 12:56
 6594f27e-91e7-4642-b8de-05913b296b6c,prevail.art,premium,291.2,83.3,high,medium,7,namesilo,,,09/09/2026 01:31
-6e8ad07d-8bed-4f22-8ebc-c72e2231eed1,buttonwood.art,premium,81.9,91,medium,low,10,namecheap,,,18/09/2026 20:34
+6e8ad07d-8bed-4f22-8ebc-c72e2231eed1,buttonwood.art,premium,81.9,91,high,low,10,namecheap,,,18/09/2026 20:34
 202ff0c3-ebd3-4e57-8729-143a50acab0f,variables.art,premium,62.48,83.3,medium,low,9,namesilo,,,
-0bf1a96c-c306-4258-b0ef-9351a8956ee1,chromium.art,premium,291.2,83.3,medium,low,8,namesilo,,,20/09/2026 22:39
+0bf1a96c-c306-4258-b0ef-9351a8956ee1,chromium.art,premium,291.2,83.3,high,low,8,namesilo,,,20/09/2026 22:39
 994531b7-3e7d-4b53-b081-f841cb8ba000,sickly.art,premium,153.75,87.5,high,low,6,name.com,,,
 f6448c20-c884-4f00-aec0-91efb2514053,adhocracy.art,available,3.19,23.99,medium,low,9,namesilo,,,17/09/2026 08:02
 0698d733-fd13-484f-a9f7-a12a9d6f21ab,studies.art,premium,3450,83.3,high,low,7,namesilo,,,16/09/2026 11:06
@@ -171,6 +182,7 @@ acafbbcf-eca7-4736-a690-745db6616f84,blessed.art,premium,291.2,83.3,high,low,7,n
 6021f756-1d6b-4e2e-80e0-abb5249174ea,manzoni.art,premium,291.2,83.3,high,low,7,namesilo,,,18/09/2026 05:31
 69fd4aa9-2fac-43a7-a932-b937029c41ac,moribund.art,premium,62.48,83.3,medium,low,8,namesilo,,,25/08/2026 06:31
 e06ec4dd-5d2f-40f6-a2e4-f111dbe4d817,arpeggio.art,premium,159.9,91,high,low,8,namecheap,,,20/09/2026 08:37
+9cbb8b29-bc88-42a5-8360-8bfb3a072a88,trondheim.art,premium,227.7,,high,low,9,unstoppable,,,29/09/2026 13:33
 ba0ae053-c489-436d-913f-625e27108dab,tragicomic.art,premium,41.3,83.3,medium,low,10,namesilo,,,11/09/2026 18:46
 8fb2be40-9779-4cf0-9703-7010fd361ede,franciscan.art,premium,131.2,83.3,high,low,10,namesilo,,,18/08/2026 14:06
 8df1201e-4b9d-4435-8fce-8a09f931f0f5,dazzled.art,premium,78.75,87.5,high,low,7,name.com,,,13/08/2026 18:57
@@ -198,6 +210,7 @@ c5cc8b83-d02f-4ca0-948c-f58cdbce733f,yesteryear.art,premium,62.48,83.3,high,low,
 e22496c1-2369-4a72-9bfd-f8a5bdd2a9ba,oneself.art,premium,131.2,83.3,high,low,7,namesilo,,,
 3f320000-6268-4e8f-af52-ea87f95f66dd,captivated.art,premium,291.2,83.3,medium,low,10,namesilo,,,09/08/2026 09:52
 86f7ca64-4b62-40b5-8a4b-25fb62b40de1,amherst.art,premium,131.2,83.3,high,low,7,namesilo,,,25/09/2026 12:38
+97eb6de3-20fb-4031-b57f-101821999c88,paranoia.art,premium,300.3,77,high,low,8,dynadot,,,29/09/2026 19:54
 02cf5a27-61b4-46ce-a31b-453de3fc4895,tomlinson.art,premium,291.2,83.3,medium,low,9,namesilo,,,28/09/2026 12:15
 d3d8a746-24d3-4df3-9ddb-b6c158b84da8,bailor.art,available,3.98,32.98,medium,low,6,namecheap,,,21/09/2026 19:14
 0c4197a7-7829-432a-bc71-03bf8efc1915,whoever.art,premium,131.2,83.3,medium,low,7,namesilo,,,
@@ -209,11 +222,12 @@ d3d8a746-24d3-4df3-9ddb-b6c158b84da8,bailor.art,available,3.98,32.98,medium,low,
 aa3a9444-7fc8-47b2-a65c-0766d51abf1a,bradshaw.art,premium,127.51,72.65,high,low,8,spaceship,,,27/09/2026 18:05
 c53b9d1c-c095-4ced-9675-bb63b7a98215,motive.art,premium,291.2,83.3,high,medium,6,namesilo,,,25/09/2026 21:54
 4540df1d-2bd0-4195-b93a-b9f7fb77a646,morgue.art,premium,291.2,83.3,medium,low,6,namesilo,,,25/08/2026 06:42
+dc1fb52c-abfd-482d-ab90-0e0b5c595be2,luo.art,premium,282.76,72.65,high,low,3,spaceship,,,29/09/2026 07:30
 4cb9bfbd-2cb6-4231-ab28-065db282e3ef,amanda.art,premium,291.2,83.3,high,low,6,namesilo,,,25/09/2026 13:54
 b551fa9b-1f63-47d6-98a9-5262d65e1850,swagman.art,premium,131.2,83.3,medium,low,7,namesilo,,,11/09/2026 05:01
 36db6cd2-f7be-45fe-b082-f80ac3b79af3,disruption.art,premium,131.2,83.3,high,low,10,namesilo,,,24/09/2026 16:35
 c16b3986-02d9-4b5a-a5fa-d8b989a5554d,chalky.art,premium,62.48,83.3,high,low,6,namesilo,,,11/08/2026 13:39
-b10e6162-b999-49ab-b7f7-2f768e01e39b,incompatible.art,premium,20.65,83.3,medium,low,12,namesilo,,,
+b10e6162-b999-49ab-b7f7-2f768e01e39b,incompatible.art,premium,20.65,83.3,high,low,12,namesilo,,,
 24713c8f-cc75-434e-be4c-84b9233aedad,cursively.art,available,3.19,23.99,medium,low,9,namesilo,,,14/09/2026 10:07
 94cd76f7-778a-4c89-b55f-3cd65c2f776f,blower.art,premium,291.2,83.3,medium,low,6,namesilo,,,12/08/2026 01:06
 00a70573-87a7-43a7-922d-1e8ff11c79e1,comose.art,premium,153.75,87.5,low,low,6,name.com,,,12/08/2026 18:22
@@ -222,12 +236,13 @@ e57af4ce-93d4-476d-9112-c245899b0f9c,heartleaf.art,available,3.98,32.98,medium,l
 bdb30bd2-2b2a-4d8f-ab80-19afea8b2b48,holotype.art,available,3.19,23.99,high,low,8,namesilo,,,25/09/2026 23:08
 303d6aea-e82d-4fdc-9fc1-37d4e4b48b3f,stratford.art,premium,291.2,83.3,high,low,9,namesilo,,,25/09/2026 14:45
 4e3c0645-327e-45b9-842d-ad1e02d69622,bister.art,premium,62.48,83.3,high,low,6,namesilo,,,23/09/2026 22:08
-0c399090-e200-4174-88db-31fadee0f13d,patched.art,premium,62.48,83.3,medium,low,7,namesilo,,,08/09/2026 10:18
-940341c9-b40f-40a5-891e-34715e7c3bc1,booze.art,premium,291.2,83.3,medium,low,5,namesilo,,,24/09/2026 07:21
+0c399090-e200-4174-88db-31fadee0f13d,patched.art,premium,62.48,83.3,high,low,7,namesilo,,,08/09/2026 10:18
+940341c9-b40f-40a5-891e-34715e7c3bc1,booze.art,premium,291.2,83.3,high,low,5,namesilo,,,24/09/2026 07:21
 517efbba-d730-4f35-8324-17c043957e28,cleric.art,premium,131.2,83.3,high,low,6,namesilo,,,14/08/2026 23:27
 0d1345ec-08f6-48a6-9612-e90e6fa1f4ea,applicant.art,premium,291.2,83.3,high,low,9,namesilo,,,19/09/2026 21:53
 85f84e92-dbbd-4eb3-bb29-045e097e8079,rocking.art,premium,3450,83.3,high,low,7,namesilo,,,28/09/2026 15:55
 d3a1b5e1-f30d-49e8-813a-93bc8cd2613f,susurrant.art,available,3.19,23.99,medium,low,9,namesilo,,,03/09/2026 11:08
+10167161-7978-4ff3-9edb-94a9876fe992,consolidated.art,premium,21.94,72.65,high,low,12,spaceship,,,29/09/2026 16:56
 38223d53-339b-4064-8ba0-df4d89b41ed6,acanthion.art,available,3.98,32.98,medium,low,9,namecheap,,,16/09/2026 20:39
 5d2cceb8-df5f-4bf5-8f95-bb4fc64721ec,lewdly.art,available,3.19,23.99,low,low,6,namesilo,,,15/09/2026 11:12
 653bd40c-33d3-48e8-a12c-5034e78dd35f,unsuitable.art,premium,62.48,83.3,medium,low,10,namesilo,,,22/08/2026 00:19
@@ -244,7 +259,7 @@ fe072789-8926-4ca6-a70d-d160ddeb707c,sabotage.art,premium,291.2,83.3,medium,low,
 ae092560-9a34-43ab-b881-6190e4b71e8c,bragger.art,available,3.19,23.99,medium,low,7,namesilo,,,11/08/2026 01:14
 3a66c91c-8bcc-4371-a071-67912ea5205e,camisole.art,premium,62.48,83.3,high,low,8,namesilo,,,24/09/2026 11:52
 55976f9d-060e-48ff-b771-f97566e8c84b,myeloid.art,available,3.19,23.99,medium,low,7,namesilo,,,03/09/2026 12:06
-7c14b7af-ba9d-44a7-a7e2-053b176a6169,gloved.art,premium,41.3,83.3,medium,low,6,namesilo,,,20/08/2026 14:52
+7c14b7af-ba9d-44a7-a7e2-053b176a6169,gloved.art,premium,41.3,83.3,high,low,6,namesilo,,,20/08/2026 14:52
 05a0ab46-3335-4deb-ad34-977cd4c8b92d,jut.art,premium,291.2,83.3,medium,low,3,namesilo,,,22/08/2026 14:56
 8a0933cb-7bdf-49a9-b488-dd7657c13d23,cocksure.art,premium,291.2,83.3,medium,low,8,namesilo,,,12/08/2026 15:00
 9c13a998-fc2f-48a8-be05-f0d7532b14ab,tub.art,premium,291.2,83.3,high,low,3,namesilo,,,29/09/2026 01:33
@@ -254,21 +269,24 @@ ed58759f-f592-4fea-bbde-ae8ce9f1f210,conjugal.art,premium,62.48,83.3,medium,low,
 ac4fea98-da81-422d-acd2-accb90009714,goes.art,premium,159.9,91,high,low,4,namecheap,,,25/09/2026 16:38
 6a92c35b-04bc-4eac-ac8b-9c1a1f54955d,cleaned.art,premium,291.2,83.3,high,low,7,namesilo,,,27/09/2026 02:45
 1a86118b-d776-45fc-adcb-0265460cc5ac,coruscant.art,premium,131.2,83.3,medium,low,9,namesilo,,,
-b3780e85-fb1e-45b0-8ced-25d0198330e9,deary.art,premium,153.75,87.5,medium,low,5,name.com,,,13/08/2026 18:21
+b3780e85-fb1e-45b0-8ced-25d0198330e9,deary.art,premium,153.75,87.5,high,low,5,name.com,,,13/08/2026 18:21
 cc4b53d5-5f15-4715-8d53-855b8b3a19c7,bracelet.art,premium,291.2,83.3,high,low,8,namesilo,,,22/09/2026 01:56
 5d7e7e25-29bc-4090-a66f-2d9becdffc92,capt.art,premium,291.2,83.3,high,low,4,namesilo,,,25/09/2026 12:23
 36cc95b7-16f6-4703-9191-79527c985199,merrick.art,premium,282.76,72.65,medium,low,7,spaceship,,,28/09/2026 16:40
+ba12885d-7205-4043-bb00-dc5aaefb7baa,stumbled.art,premium,52.7,,low,low,8,unstoppable,,,29/09/2026 16:59
 05fbf929-0b3d-40df-be40-65cde4eee785,shadowed.art,available,3.19,23.99,medium,low,8,namesilo,,,10/09/2026 05:25
+3eb3c0d0-3afe-4334-9b6b-0b69f768a8b3,stairway.art,premium,348.17,76.94,high,low,8,porkbun,,,29/09/2026 08:07
 135c30f6-4850-4154-8fdb-433e3aaad6ac,crepuscle.art,available,3.19,23.99,medium,low,9,namesilo,,,11/09/2026 21:50
 875bdaaf-da24-4525-9660-8050c8050721,accelerate.art,premium,282.76,72.65,high,low,10,spaceship,,,29/09/2026 02:40
 5f1cdc58-d65f-49eb-ac80-aac6dc897d1c,wilfred.art,premium,300.3,77,medium,low,7,dynadot,,,28/09/2026 07:49
-f775dce6-df4b-469b-a296-a7ad664ec9f3,footballer.art,premium,291.2,83.3,high,low,10,namesilo,,,
+f775dce6-df4b-469b-a296-a7ad664ec9f3,footballer.art,premium,282.76,72.65,high,low,10,spaceship,,,29/09/2026 19:49
 6ccf7758-4a54-48a2-bf11-a2dc924de958,sporty.art,premium,291.2,83.3,high,low,6,namesilo,,,10/09/2026 16:35
 da833666-679f-46af-8025-8587de253399,rockers.art,premium,291.2,83.3,high,low,7,namesilo,,,23/09/2026 15:34
 c2c711ae-4e38-476c-8d21-827315162423,basics.art,premium,291.2,83.3,high,low,6,namesilo,,,29/09/2026 01:23
 13e3d542-d454-4333-a6b3-56bb0dc202aa,biogenesis.art,premium,81.9,91,high,low,10,namecheap,,,23/09/2026 18:02
 63e590bf-249b-491b-bb27-fd6fdacb9cde,nguyen.art,premium,282.76,72.65,high,low,6,spaceship,,,28/09/2026 04:48
 d0872002-a338-496f-861c-dee21f605ec0,gregory.art,premium,354.9,91,high,low,7,namecheap,,,19/09/2026 06:00
+2ef2e444-e80e-44a0-946d-9d05bc8c3cb6,pistols.art,premium,1250.2,,medium,low,7,unstoppable,,,29/09/2026 11:19
 8e5c70b9-41a3-4cb3-9acc-b02b56e71d51,opulent.art,premium,131.2,83.3,high,low,7,namesilo,,,14/08/2026 00:58
 962eb71d-3900-49b1-bd6a-c513831562ac,smetana.art,premium,291.2,83.3,medium,low,7,namesilo,,,22/09/2026 23:32
 91c55000-b907-48d3-977d-538a54647b10,larval.art,premium,78.75,87.5,medium,low,6,name.com,,,22/08/2026 20:01
@@ -278,7 +296,7 @@ c489a263-e7cb-4513-afd7-cd4481e8f0f9,slowest.art,premium,41.3,83.3,medium,low,7,
 e6fa830d-872f-4d57-8397-87e487130e36,winning.art,premium,291.2,83.3,high,low,7,namesilo,,,24/09/2026 17:37
 39b0ef81-5020-4fce-abb4-663fc8f81c9c,sugary.art,premium,62.48,83.3,high,low,6,namesilo,,,19/09/2026 16:54
 c7a926bb-cff8-4160-9c1b-c0d477d912ba,fugacious.art,premium,41.3,83.3,medium,low,9,namesilo,,,17/08/2026 10:20
-4d09c0c3-8d16-4ba7-8722-18e625d8d79a,bottled.art,premium,282.76,72.65,medium,low,7,spaceship,,,29/09/2026 03:12
+4d09c0c3-8d16-4ba7-8722-18e625d8d79a,bottled.art,premium,282.76,72.65,high,low,7,spaceship,,,29/09/2026 03:12
 df96059b-f228-4f65-8184-02132a17a510,nude.art,available,,,high,low,4,,,,
 6efe761d-9517-42fb-b271-96af3217b322,demonstration.art,premium,20.65,83.3,high,low,13,namesilo,,,
 124d817a-2b72-4575-a611-fb2aaf7f7c5e,shakeable.art,available,3.19,23.99,medium,low,9,namesilo,,,10/09/2026 05:34
@@ -290,19 +308,23 @@ b22bafd0-97f0-47f6-9b9f-a4c0174e2a7a,antinode.art,available,3.19,23.99,medium,lo
 6fa586a0-4bda-4046-bed5-ad83d0766085,pianistic.art,available,3.98,32.98,high,medium,9,namecheap,,,08/09/2026 19:28
 406fe8f9-8715-4493-81b2-6e4fc0e4d3c9,powell.art,premium,291.2,83.3,high,low,6,namesilo,,,25/09/2026 04:09
 512c237f-c134-493b-ae8e-a5b1e377b50b,pioneer.art,premium,300.3,77,high,low,7,dynadot,,,29/09/2026 01:10
-3383cb44-725a-4804-8f2a-b2a06c0cd65a,remotely.art,premium,131.2,83.3,medium,low,8,namesilo,,,15/09/2026 23:10
+3383cb44-725a-4804-8f2a-b2a06c0cd65a,remotely.art,premium,131.2,83.3,high,low,8,namesilo,,,15/09/2026 23:10
 0b9df309-6851-4638-ae2e-3bfaa65b12a2,unaged.art,available,3.19,23.99,medium,low,6,namesilo,,,12/09/2026 00:11
 a3b30fa5-6462-4d28-8d83-2007ef2f3f8e,swinging.art,premium,62.48,83.3,high,low,8,namesilo,,,23/08/2026 08:43
 4c730bb5-6da5-40a7-9e6b-00ccbdaf42cb,mae.art,premium,354.9,91,high,low,3,namecheap,,,27/09/2026 18:26
 94eaa77b-5229-43fc-84d7-854a1ba5b7f1,wilbur.art,premium,131.2,83.3,high,low,6,namesilo,,,27/09/2026 07:43
 a03e780a-6027-4a33-9a34-6e357d2c9bc7,esthetics.art,premium,291.2,83.3,high,low,9,namesilo,,,17/09/2026 13:38
-0ccc7c28-43ec-4ed4-8010-a16bb6671c9d,aspartame.art,premium,62.48,83.3,medium,low,9,namesilo,,,20/09/2026 14:43
+0ccc7c28-43ec-4ed4-8010-a16bb6671c9d,aspartame.art,premium,62.48,83.3,high,low,9,namesilo,,,20/09/2026 14:43
 cf0e7a42-9b05-4c78-af48-42bc51448593,anorgasmia.art,available,3.19,23.99,medium,low,10,namesilo,,,19/09/2026 11:47
+7b41a436-8c06-480c-9760-c9390c9ddc93,shakes.art,premium,135.3,77,high,low,6,dynadot,,,29/09/2026 17:26
 ca5b4b29-9bc2-4999-9003-4f49baa29b9f,bmw.art,premium,282.76,72.65,high,high,3,spaceship,,,28/09/2026 03:27
 bb926be8-ec17-4adc-b96c-36fb75ea396b,natality.art,premium,81.9,91,medium,low,8,namecheap,,,23/09/2026 21:04
 64c31dbc-aafc-4195-a87b-f7c4d081f0f2,banns.art,premium,62.48,83.3,medium,low,5,namesilo,,,22/09/2026 02:56
 7432fb09-a793-469f-b798-30651014ab71,oftentimes.art,available,3.98,32.98,medium,low,10,namecheap,,,14/09/2026 20:04
+12590f07-b0d4-4ccf-835f-76158f18d116,jamieson.art,premium,127.51,72.65,high,low,8,spaceship,,,29/09/2026 22:21
+d5f0437b-abc1-4372-949d-b4799156d2b2,bloomsbury.art,premium,348.17,76.94,medium,low,10,porkbun,,,29/09/2026 18:00
 7690c467-e8a4-4427-9278-5acf0f1dce0e,squiggly.art,premium,41.3,83.3,medium,low,8,namesilo,,,10/09/2026 17:43
+6957eea5-dca5-4bcd-acdf-7bf903c24f9e,carly.art,premium,291.2,83.3,high,low,5,namesilo,,,29/09/2026 15:23
 1ba138c2-8160-4c88-8595-eb0ef852b86c,betrayed.art,premium,291.2,83.3,medium,low,8,namesilo,,,26/09/2026 03:08
 71e10c59-1ce0-41fd-92ba-c0c5ea008ab4,mesial.art,available,3.98,32.98,medium,low,6,namecheap,,,24/08/2026 21:08
 b923d64c-0dc1-4303-9236-b2fc1308ad77,makeovers.art,premium,131.2,83.3,medium,low,9,namesilo,,,21/09/2026 08:55
@@ -311,9 +333,11 @@ e61bf60d-05ab-43b1-8241-92568dd7275d,dismayed.art,available,3.19,23.99,medium,lo
 f46fd175-6d66-4b3d-86e7-365f06c0ac35,vicinity.art,premium,135.3,77,high,low,8,dynadot,,,28/09/2026 19:41
 b7cfd20d-991c-4797-a021-7332d6506804,bilsted.art,available,3.98,32.98,medium,low,7,namecheap,,,18/09/2026 20:49
 873caaef-0634-4cf1-a518-e2074e43f9f5,ashamed.art,premium,131.2,83.3,medium,low,7,namesilo,,,27/09/2026 17:32
-4ea560e5-4317-4cda-91e8-f5296e65b6e1,predator.art,premium,300.3,77,medium,low,8,dynadot,,,28/09/2026 14:50
+4ea560e5-4317-4cda-91e8-f5296e65b6e1,predator.art,premium,300.3,77,high,low,8,dynadot,,,28/09/2026 14:50
 69854da2-c529-4152-b7ab-1b9108adbe1a,installed.art,premium,43.67,72.65,medium,low,9,spaceship,,,28/09/2026 12:57
 7c1f9e65-16c5-4be7-9f1a-426a08c23ccf,animated.art,premium,291.2,83.3,high,low,8,namesilo,,,22/09/2026 05:00
+e4379813-4e98-41cb-9f8b-ba6482906af9,clarissa.art,premium,300.3,77,medium,low,8,dynadot,,,29/09/2026 21:24
+e44a2261-5865-4405-a3a2-b83ab74fece9,martyn.art,premium,282.76,72.65,high,low,6,spaceship,,,29/09/2026 09:11
 294677e5-f78f-4631-b5f1-847d6357a0a4,voltage.art,premium,282.76,72.65,high,low,7,spaceship,,,29/09/2026 00:46
 b75b6ce1-ff89-4ef5-90cc-7d4d2c1763e7,bladder.art,premium,291.2,83.3,high,low,7,namesilo,,,24/09/2026 03:26
 5b46e298-ff14-4f44-aee9-cba9919f4c2f,sparing.art,premium,41.3,83.3,high,low,7,namesilo,,,18/08/2026 16:58
@@ -324,21 +348,26 @@ a6b11d69-5e20-4f10-889c-a2bab045680a,subacid.art,available,3.19,23.99,medium,low
 6770402d-9541-49ec-beeb-ba82e8b1c65d,fizzy.art,premium,291.2,83.3,high,low,5,namesilo,,,18/08/2026 06:03
 672dd5cd-7d6b-4d95-8966-40eb15925a30,sixties.art,premium,291.2,83.3,high,low,7,namesilo,,,16/09/2026 12:11
 3be1b03e-fc10-4477-8e8d-9719b6b496fa,threescore.art,available,3.19,23.99,medium,low,10,namesilo,,,
+65969944-4620-494e-945d-d01a7ced3b5c,hawes.art,premium,65.41,72.65,medium,low,5,spaceship,,,29/09/2026 22:21
 03a87a37-2e09-4eda-af52-63c615e11ca0,colleagues.art,premium,131.2,83.3,medium,low,10,namesilo,,,18/09/2026 23:15
 d218e84f-d064-4992-bf4a-602dcc59ea15,pitching.art,premium,131.2,83.3,high,low,8,namesilo,,,
+612612ce-de00-4add-9455-82dd0193047a,quaker.art,premium,282.76,72.65,high,low,6,spaceship,,,29/09/2026 20:05
 86c8ae1b-9124-47e7-bb07-a95d7f746568,migratory.art,premium,62.48,83.3,medium,low,9,namesilo,,,24/08/2026 22:49
 bce43910-a888-47ee-bc64-bb8b212fed1f,impacted.art,available,3.98,32.98,medium,low,8,namecheap,,,21/08/2026 21:36
 3575ed47-a348-4431-899d-92099202cb7b,headless.art,premium,291.2,83.3,medium,low,8,namesilo,,,11/08/2026 01:43
+dfcc3488-e4de-4138-82b8-4882b5e21eec,taps.art,premium,227.7,,high,low,4,unstoppable,,,29/09/2026 20:29
 ef043f1d-fd72-406c-b7e8-2133b36be0d4,accomplish.art,premium,282.76,72.65,high,low,10,spaceship,,,28/09/2026 06:55
 ade79351-0d8c-4af4-bbad-485c4c1cf347,murdoch.art,premium,,,medium,low,7,,,,28/09/2026 01:45
 ba5fed5a-5b57-4cc3-bc83-97be553c280e,difficult.art,premium,291.2,83.3,high,low,9,namesilo,,,24/09/2026 08:14
-a4e4c8ee-5b77-4baa-b14d-328891757808,positional.art,available,3.19,23.99,medium,low,10,namesilo,,,09/09/2026 00:06
+a4e4c8ee-5b77-4baa-b14d-328891757808,positional.art,available,3.19,23.99,high,low,10,namesilo,,,09/09/2026 00:06
 9f8e05d5-434b-461f-b40b-68889ecaa97b,antido.art,available,3.19,23.99,medium,low,6,namesilo,,,19/09/2026 14:17
 3159cde9-ed53-445d-a58a-7bad179485b5,shipping.art,premium,2500.2,83.3,high,low,8,unstoppable,,,28/09/2026 08:55
+f56bf9cc-e0d4-49f9-8b24-513ccb6c2b2d,orient.art,premium,282.76,72.65,high,medium,6,spaceship,,,29/09/2026 12:08
 67f67c55-e2fb-4b89-a22a-eeb0b091749d,applicator.art,premium,131.2,83.3,medium,low,10,namesilo,,,19/09/2026 21:55
 635f5756-cca8-47e4-8570-d049e324c353,bitty.art,premium,131.2,83.3,high,low,5,namesilo,,,10/08/2026 07:51
 00a96f2d-f052-4134-8e2b-84e08cdb94ec,fury.art,premium,3450,83.3,high,low,4,namesilo,,,24/09/2026 21:41
-7deed133-5d13-463e-a371-e8bbf2c375a3,griffith.art,premium,291.2,83.3,medium,low,8,namesilo,,,25/09/2026 04:33
+7deed133-5d13-463e-a371-e8bbf2c375a3,griffith.art,premium,291.2,83.3,high,low,8,namesilo,,,25/09/2026 04:33
+ab4bfb8c-540d-4190-b2f3-c3abc6a6e18b,molecule.art,premium,227.7,,high,high,8,unstoppable,,,29/09/2026 11:59
 b0924a40-00f8-437f-af8d-2e9897c51b65,invincibly.art,available,3.19,23.99,medium,low,10,namesilo,,,15/09/2026 09:08
 adc0c6be-b705-4799-af02-d80bf18bff1c,helpful.art,premium,291.2,83.3,high,low,7,namesilo,,,21/08/2026 06:37
 a61da2b5-ca13-407e-8273-582d7563cbf9,venezuelan.art,premium,131.2,83.3,high,low,10,namesilo,,,13/09/2026 02:04
@@ -360,17 +389,19 @@ b6471b6e-07cd-49ad-8ba2-0b6a34abdcb6,masterless.art,available,3.19,23.99,medium,
 9783a153-e790-492b-af00-d1d9af2e1b78,prospects.art,premium,291.2,83.3,medium,low,9,namesilo,,,29/09/2026 05:24
 da847982-e175-4889-bd29-f7a83a92ac22,elongate.art,available,3.19,23.99,high,low,8,namesilo,,,16/08/2026 05:24
 8888554c-26a7-4fa6-ba54-2ccd3540f4fd,firearms.art,premium,291.2,83.3,medium,low,8,namesilo,,,28/09/2026 22:59
-ac5cf32e-9ea6-44c4-98ca-6dcf506b4ba4,curtain.art,premium,1875,,high,low,7,name.com,,,
+f192a7f3-428d-4671-b376-b6276984c0a9,dionysius.art,premium,131.2,83.3,medium,low,9,namesilo,,,29/09/2026 06:39
+ac5cf32e-9ea6-44c4-98ca-6dcf506b4ba4,curtain.art,premium,1662.5,83.3,high,low,7,namesilo,,,29/09/2026 13:08
 7c67ded2-d145-4229-932c-6da6950614c4,static.art,premium,291.2,83.3,high,low,6,namesilo,,,16/08/2026 02:42
-1a82ee38-2a81-4519-b116-ef6570105669,wriggling.art,available,3.19,23.99,medium,low,9,namesilo,,,13/09/2026 13:41
+1a82ee38-2a81-4519-b116-ef6570105669,wriggling.art,available,3.19,23.99,high,low,9,namesilo,,,13/09/2026 13:41
 01bb10c1-38a7-4e83-9a1c-d7f59c6263b9,wheels.art,premium,3450,83.3,high,low,6,namesilo,,,17/09/2026 12:21
 cc2626ef-9f0b-4e50-bb0c-8b76c4ef6a48,lumber.art,premium,291.2,83.3,high,low,6,namesilo,,,22/09/2026 10:02
 0c15e14b-9ffb-4b89-a228-ce9744851e41,bigram.art,available,3.19,23.99,medium,low,6,namesilo,,,23/09/2026 15:24
 6a3901f3-c47d-4cc8-ac2c-bfb2c8838364,kerensky.art,premium,41.3,83.3,high,low,8,namesilo,,,18/09/2026 05:02
 08df2d50-a3aa-4007-9ef9-faeb2a750474,timeworn.art,available,3.19,23.99,medium,low,8,namesilo,,,08/08/2026 11:14
+2f595be4-e3d8-441e-b48f-6809864c22a1,paine.art,premium,131.2,83.3,medium,low,5,namesilo,,,29/09/2026 13:38
 c6f405df-a892-48fd-8996-4385719411bd,amiably.art,available,3.98,32.98,medium,low,7,namecheap,,,13/09/2026 17:50
 7dd822ef-869e-4cbb-834d-6a854cd2ce3c,frayed.art,premium,291.2,83.3,medium,low,6,namesilo,,,18/08/2026 14:25
-5130ce6e-99c9-4d81-bdbf-8d6b35f1b24b,wolves.art,premium,291.2,83.3,medium,low,6,namesilo,,,28/09/2026 04:21
+5130ce6e-99c9-4d81-bdbf-8d6b35f1b24b,wolves.art,premium,291.2,83.3,high,low,6,namesilo,,,28/09/2026 04:21
 e0f6a7c5-b998-4a7b-9483-1280bbd861ce,shall.art,premium,291.2,83.3,high,low,5,namesilo,,,
 141967bb-16b5-4948-8e59-4ff7f01411fb,simulation.art,premium,291.2,83.3,high,low,10,namesilo,,,28/09/2026 10:50
 e8dbbf13-9ab5-46f3-aa6f-3762cf0060a6,starting.art,premium,159.9,91,high,low,8,namecheap,,,28/09/2026 00:44
@@ -384,7 +415,7 @@ e1e1d1e5-d842-4c07-8464-c7da90b7011e,wolverine.art,premium,291.2,83.3,high,low,9
 35a4f309-7edc-46e8-b61e-a01028719129,aculeus.art,available,3.19,23.99,medium,low,7,namesilo,,,17/09/2026 05:33
 8f74b843-bcf5-4f8b-993f-42c6a72882c2,shade.art,premium,282.76,72.65,high,low,5,spaceship,,,28/09/2026 02:00
 ad03568c-d338-4f87-a618-7f8a0b7b0f46,bribable.art,available,3.19,23.99,low,low,8,namesilo,,,11/08/2026 03:42
-44f14d08-a681-400a-b889-87d2ecc9f075,prettily.art,available,3.98,32.98,medium,low,8,namecheap,,,15/09/2026 21:22
+44f14d08-a681-400a-b889-87d2ecc9f075,prettily.art,available,3.98,32.98,high,low,8,namecheap,,,15/09/2026 21:22
 0818cede-d8df-40c0-89fd-fbd5cad591b4,nikolai.art,premium,300.3,77,high,low,7,dynadot,,,27/09/2026 20:11
 f5bb53c2-02c3-4547-bd6a-d42e10b503ae,prayerful.art,available,3.19,23.99,high,medium,9,namesilo,,,09/09/2026 01:05
 71cb8858-256b-4858-b4b0-b68012a00af8,autoerotic.art,premium,78.75,87.5,medium,low,10,name.com,,,07/08/2026 20:01
@@ -393,8 +424,10 @@ b7574b33-0541-4370-ac5f-aa2f206f91eb,amendment.art,premium,354.9,91,high,low,9,n
 8337eaef-1987-429b-9768-87b85dc19dc9,argentic.art,available,,,medium,low,8,,,,
 3049ed46-4672-41ff-bcdb-22f54ddc48df,ano.art,premium,354.9,91,high,low,3,namecheap,,,16/09/2026 18:45
 fb82efb4-be2a-4951-8081-a4897cee0b0b,flipping.art,premium,159.9,91,high,low,8,namecheap,,,17/09/2026 18:25
+abbdb0c6-aa3d-4e71-a723-14967e72f905,marcellus.art,premium,156.98,76.94,medium,low,9,porkbun,,,29/09/2026 15:33
+2264f239-710e-4ec8-a968-9cf51ec8953a,stature.art,premium,131.2,83.3,high,low,7,namesilo,,,29/09/2026 08:08
 f4b1e969-f459-432e-a07a-5948b6d9448d,abrasive.art,premium,291.2,83.3,high,low,8,namesilo,,,
-b02e4fb5-780d-4198-996e-918e54317da1,circus.art,premium,3450,83.3,high,low,6,namesilo,,,
+b02e4fb5-780d-4198-996e-918e54317da1,circus.art,premium,3105.2,72.65,high,low,6,spaceship,,,29/09/2026 09:23
 4d43bf70-d51b-42f8-9315-29b49517e939,holyoke.art,premium,65.41,72.65,medium,low,7,spaceship,,,28/09/2026 08:11
 4946a8d4-5785-432c-964f-5d4dd2d8cfde,squawky.art,available,3.19,23.99,low,low,7,namesilo,,,11/08/2026 12:26
 e1b77f6e-f2ee-4808-ade6-5aa1b5215ec0,blades.art,premium,153.75,,high,low,6,name.com,,,
@@ -406,12 +439,14 @@ c05de3f2-fada-4dd7-bb41-a26db8622c30,scads.art,premium,291.2,83.3,high,low,5,nam
 e73e789e-dbb0-45ca-a788-3e7587fcce32,crevice.art,premium,62.48,83.3,high,low,7,namesilo,,,13/08/2026 04:16
 89b0fa2d-243d-4c6d-a0fe-0830d2fd9aa5,convinced.art,premium,131.2,83.3,high,low,9,namesilo,,,
 c7c79330-c4cc-41a8-8b8e-869647f6c220,proceed.art,premium,131.2,83.3,high,low,7,namesilo,,,
+ae56ef77-746b-49de-a714-3b8d51faacc9,psc.art,premium,354.9,91,high,low,3,namecheap,,,29/09/2026 22:26
 cee2c92e-1a72-4416-852a-f47dcd5db989,whereas.art,premium,153.75,,high,low,7,name.com,,,
-3179a1d8-e565-4d6e-9fe7-13c3dabb4548,granny.art,premium,131.2,83.3,high,low,6,namesilo,,,27/09/2026 06:36
+3179a1d8-e565-4d6e-9fe7-13c3dabb4548,granny.art,premium,159.9,91,high,low,6,namecheap,,,29/09/2026 21:16
 7f5cb3a2-9796-40f4-bc65-2c1f376b4182,bulls.art,premium,282.76,72.65,high,low,5,spaceship,,,28/09/2026 07:33
 42ac161f-31c5-4538-b11b-e9825b3d117d,uri.art,premium,300.3,77,high,low,3,dynadot,,,28/09/2026 21:32
 1eaa968b-9939-49d0-8799-9ede5ff69c62,gap.art,premium,291.2,83.3,high,high,3,namesilo,,,04/09/2026 16:17
 1ef33a5d-cea0-4928-b07b-8d4aee3418ef,antiquated.art,available,3.19,23.99,medium,low,10,namesilo,,,
+6c1236ab-a2dd-4e35-91a1-ea11521170ed,competitors.art,premium,26.96,76.94,medium,low,11,porkbun,,,29/09/2026 11:34
 b597b848-137d-4ba8-8d13-a843bb89b366,laggard.art,available,3.19,23.99,medium,low,7,namesilo,,,14/08/2026 07:32
 20442c3c-1eb0-4844-ab88-26e91f6d0f0f,selma.art,premium,291.2,83.3,high,low,5,namesilo,,,28/09/2026 03:04
 e2a9d114-d82f-4eb3-a652-90ce48a32405,divergent.art,premium,291.2,83.3,high,low,9,namesilo,,,14/08/2026 13:35
@@ -420,20 +455,23 @@ e2a9d114-d82f-4eb3-a652-90ce48a32405,divergent.art,premium,291.2,83.3,high,low,9
 00ca8bba-299f-41c3-a18c-ac5ff84dfa65,bolivian.art,premium,62.48,83.3,high,low,8,namesilo,,,10/08/2026 17:46
 c0e08744-e673-4782-93df-33713058ef56,adopted.art,premium,291.2,83.3,high,low,7,namesilo,,,
 1d6e8acb-961a-415f-a5b9-f927d45b7941,cleanly.art,premium,62.48,83.3,high,low,7,namesilo,,,12/08/2026 10:21
+62e047a2-38ac-41d0-a17c-fb9919bdd5dc,contamination.art,premium,17.7,,medium,low,13,unstoppable,,,29/09/2026 22:52
 f6ba3c5d-89cf-4b42-bce9-81552a53185e,vivian.art,premium,291.2,83.3,high,low,6,namesilo,,,28/09/2026 03:58
 403899b2-c3ce-48ba-9fab-f936d29ebbf5,scope.art,premium,291.2,83.3,high,low,5,namesilo,,,18/09/2026 16:44
 ec755eac-c76f-4fd6-91de-689ae39c3bb8,eternally.art,premium,131.2,83.3,high,low,9,namesilo,,,14/09/2026 16:17
 cb566958-f876-42d3-8858-5b0f52351c42,disappears.art,available,4.5,,low,low,10,unstoppable,,,28/09/2026 13:25
+5a64deda-0e8e-47fa-b7a8-be741cfb09b6,gsa.art,premium,291.2,83.3,high,low,3,namesilo,,,29/09/2026 07:03
 9e0268f9-f19a-40f0-9313-177f3dd6cd2d,brigade.art,premium,341.25,87.5,high,low,7,name.com,,,24/09/2026 10:19
 b1d2554f-fccd-4e7d-a20e-a989c627d734,aphesis.art,available,3.19,23.99,medium,low,7,namesilo,,,19/09/2026 16:55
 4113679e-8e03-4fb2-ae04-e1e9851f0155,framework.art,premium,3450,83.3,high,low,9,namesilo,,,25/08/2026 02:30
-93b8e43b-5022-4089-85e6-e89c8bd2098d,exception.art,premium,291.2,83.3,high,low,9,namesilo,,,
+93b8e43b-5022-4089-85e6-e89c8bd2098d,exception.art,premium,227.7,83.3,high,low,9,unstoppable,,,29/09/2026 18:20
 4cd5b82a-86fb-4d20-a426-84982cfc40f7,nuthin.art,available,3.19,23.99,medium,low,6,namesilo,,,
 8b701a05-750d-4306-9f77-dec38a84c29a,verb.art,premium,131.2,83.3,high,low,4,namesilo,,,
 da60175c-e8ab-4a39-9925-4bd2a1f4b4ec,completing.art,available,3.19,23.99,high,low,10,namesilo,,,23/09/2026 17:20
 0e717c9c-ac1c-4013-b58b-3b429fdb8316,unearthly.art,premium,131.2,83.3,medium,low,9,namesilo,,,16/08/2026 02:28
 ac7ecf0f-a553-4025-a698-a917eef4a93c,fairmont.art,premium,291.2,83.3,high,medium,8,namesilo,,,29/09/2026 04:01
 6825a8ea-5ef8-4539-a97a-79c6cb462f51,freud.art,premium,291.2,83.3,medium,low,5,namesilo,,,28/09/2026 09:49
+e95a65cc-4533-4f0c-9d34-33181ae08253,implication.art,premium,20.65,83.3,high,low,11,namesilo,,,29/09/2026 22:52
 e7c93594-7fec-485c-be1a-986b1a0bd498,kettle.art,premium,282.76,72.65,medium,low,6,spaceship,,,28/09/2026 19:37
 a206af36-099a-47ce-9041-98ccc9b8f83f,knotty.art,premium,131.2,83.3,medium,low,6,namesilo,,,08/08/2026 08:12
 5732ac10-f05f-4120-8f6e-761e3cb5c7f0,dogtooth.art,premium,131.2,83.3,medium,low,8,namesilo,,,11/08/2026 17:01
@@ -441,7 +479,7 @@ d9780483-de91-4c06-bc02-5b46b10ab4af,subclavian.art,available,3.19,23.99,medium,
 7a24c667-f327-4a8a-9395-c0d8f1c43a2b,baring.art,premium,291.2,83.3,medium,low,6,namesilo,,,22/09/2026 06:03
 d7d840ba-142c-4ed5-ac84-dfcfe11d7e75,yeast.art,premium,291.2,83.3,high,low,5,namesilo,,,22/09/2026 06:34
 6777dcc9-260c-4f13-8a14-c94e9c99e9ea,middleton.art,premium,354.9,91,high,low,9,namecheap,,,25/09/2026 09:23
-b2633f1f-6413-48ee-9789-87e1605fbca0,indwelling.art,premium,62.48,83.3,medium,low,10,namesilo,,,22/08/2026 03:37
+b2633f1f-6413-48ee-9789-87e1605fbca0,indwelling.art,premium,62.48,83.3,high,low,10,namesilo,,,22/08/2026 03:37
 6f93db44-2c87-44c8-b7ae-b9e68d92e0b9,rays.art,premium,62.48,83.3,high,medium,4,namesilo,,,28/09/2026 13:03
 ae27954e-83a1-45b1-a907-6fd5583b173a,loon.art,premium,291.2,83.3,high,low,4,namesilo,,,17/09/2026 07:03
 b47f7bfb-2976-44d3-877a-97d789b7b3c7,fraudulent.art,premium,78.75,87.5,medium,low,10,name.com,,,13/08/2026 21:10
@@ -458,6 +496,7 @@ ee2705a5-3d62-44bb-a793-41b94bd024dc,emboss.art,premium,291.2,83.3,high,low,6,na
 66f6f186-9771-4987-8eb9-d2b3c0f74115,narcotic.art,premium,291.2,83.3,medium,low,8,namesilo,,,03/09/2026 13:12
 03fd2c86-1478-449f-834a-fc3d83f3c888,represent.art,premium,291.2,83.3,high,low,9,namesilo,,,
 04a66dd1-c713-41d1-b445-a562aa6f7a9a,beery.art,premium,131.2,83.3,medium,low,5,namesilo,,,09/08/2026 08:12
+8fa31ea4-05f6-4b4c-9d72-6e102e93e771,ware.art,premium,282.76,72.65,high,low,4,spaceship,,,29/09/2026 19:40
 80d26430-f3e5-452a-b258-4dd7532d294d,oviparous.art,available,3.19,23.99,medium,low,9,namesilo,,,04/09/2026 22:09
 8a1fcf60-d121-43ea-9f2d-34057bb31571,problem.art,premium,291.2,83.3,high,low,7,namesilo,,,
 9fa98981-75af-4aaa-b2e2-cfb1067eea37,five.art,premium,3450,83.3,high,low,4,namesilo,,,
@@ -476,9 +515,9 @@ b77e235f-d0a1-4a97-999e-4cc5b9e563a3,tell.art,premium,291.2,83.3,high,low,4,name
 a0f3065b-7f61-422e-96e6-ea01dea4cdda,happens.art,premium,52.5,,medium,low,7,name.com,,,
 13e12b75-d97a-4733-b28a-b164f9aaeda0,cruelty.art,premium,354.9,91,medium,low,7,namecheap,,,24/09/2026 19:49
 79076255-8399-4a82-b58f-fa8ac981aed1,wishing.art,premium,291.2,83.3,high,low,7,namesilo,,,
-8f64e099-9581-4cef-a391-1a933300ce0c,detection.art,premium,291.2,83.3,high,low,9,namesilo,,,
-4d68329b-8a15-4cca-b885-a7a4b7f71077,aragon.art,premium,291.2,83.3,medium,low,6,namesilo,,,19/09/2026 23:42
-20d8849c-f088-4c38-90b7-21c36f959a52,strain.art,premium,348.17,76.94,medium,low,6,porkbun,,,28/09/2026 01:20
+8f64e099-9581-4cef-a391-1a933300ce0c,detection.art,premium,291.2,83.3,high,low,9,namesilo,,,29/09/2026 14:13
+4d68329b-8a15-4cca-b885-a7a4b7f71077,aragon.art,premium,291.2,83.3,high,low,6,namesilo,,,19/09/2026 23:42
+20d8849c-f088-4c38-90b7-21c36f959a52,strain.art,premium,291.2,83.3,medium,low,6,namesilo,,,29/09/2026 22:58
 dfb539f4-21d4-4d1c-829e-f519a17d4b7a,balmoral.art,premium,131.2,83.3,high,low,8,namesilo,,,21/09/2026 23:39
 66032f99-9727-441e-b5ca-df0438d02e9d,jural.art,available,3.19,23.99,medium,low,5,namesilo,,,22/08/2026 14:34
 5fa17f5c-9508-49fd-b595-ac24aa30b6b4,buttery.art,premium,81.9,91,medium,low,7,namecheap,,,19/09/2026 18:30
@@ -495,8 +534,9 @@ e4bfeea5-6f3e-4cf2-8996-08aa15aef0e1,lysogenic.art,available,3.19,23.99,medium,l
 3fd6ce5f-a819-4110-ab3d-3a1007875dfa,evaporated.art,available,3.19,23.99,medium,low,10,namesilo,,,17/08/2026 14:45
 e31d9f2e-4e2d-485b-8121-5870532e8f13,huntington.art,premium,291.2,83.3,high,low,10,namesilo,,,25/09/2026 04:18
 80d6cf39-b81b-4f7f-9a1a-757ac88b05a2,supersize.art,premium,131.2,83.3,high,low,9,namesilo,,,
-c8492402-d6ce-45ed-aab0-c2e02c1a59ba,bronzed.art,premium,291.2,83.3,medium,low,7,namesilo,,,11/08/2026 05:43
-9259a050-2105-41c1-83cc-d6c2c904b867,kamikaze.art,premium,291.2,83.3,medium,low,8,namesilo,,,
+eb73c5df-f429-4c0a-a8cb-14cdc949130c,tempted.art,premium,354.9,91,medium,low,7,namecheap,,,29/09/2026 16:59
+c8492402-d6ce-45ed-aab0-c2e02c1a59ba,bronzed.art,premium,291.2,83.3,high,low,7,namesilo,,,11/08/2026 05:43
+9259a050-2105-41c1-83cc-d6c2c904b867,kamikaze.art,premium,282.76,72.65,medium,low,8,spaceship,,,30/09/2026 01:08
 4d843db9-7b0b-4a5f-8570-91de80d34312,jocund.art,premium,62.48,83.3,medium,low,6,namesilo,,,22/08/2026 13:40
 98037813-f5cb-400a-ae0e-61c1746d3862,stomachic.art,available,3.19,23.99,medium,low,9,namesilo,,,18/08/2026 20:37
 e4b5e210-5380-4766-ae77-158474ee1ad1,scar.art,premium,1662.5,83.3,high,low,4,namesilo,,,24/09/2026 15:00
@@ -514,20 +554,22 @@ ef76cb9d-fe61-4931-a36e-823c0f19fa7a,unlikable.art,available,3.19,23.99,medium,l
 f6aaec5f-ea24-4887-9d80-61cfca28ce64,salivary.art,premium,81.9,91,high,medium,8,namecheap,,,09/09/2026 20:55
 cc223c1b-3a9a-4ecd-8457-25e1f0b1200a,thus.art,premium,300.3,77,high,low,4,dynadot,,,28/09/2026 15:12
 f850b46a-d85e-4698-bcdf-203b126d6a05,blazer.art,premium,291.2,83.3,high,low,6,namesilo,,,24/09/2026 05:03
+0cbf06b7-418a-4d9a-84d3-07d789cf4dca,emmy.art,premium,282.76,72.65,high,low,4,spaceship,,,29/09/2026 06:46
 e336b86c-e72c-465f-ba10-00fcbef1e592,burbly.art,available,3.19,23.99,medium,low,6,namesilo,,,11/08/2026 10:14
 e0f1e19f-4c85-4dfd-b154-ca124f978804,faced.art,premium,52.5,87.5,high,low,5,name.com,,,17/08/2026 20:20
 3e6ef3a6-15da-451f-a12d-bda64a8ff413,conjecture.art,premium,62.48,83.3,high,low,10,namesilo,,,24/09/2026 17:17
 cc5066a7-6188-41b4-8b9c-8d7ed81fa4bf,lusaka.art,premium,81.9,91,medium,low,6,namecheap,,,24/09/2026 12:35
 a7a6b967-11dd-49dd-a354-7937cd9212fd,beefcake.art,premium,131.2,83.3,medium,low,8,namesilo,,,23/09/2026 01:06
-1bcbec33-5e99-4abc-9d38-627315bf36f7,gratefully.art,available,3.98,32.98,medium,low,10,namecheap,,,13/09/2026 20:28
+1bcbec33-5e99-4abc-9d38-627315bf36f7,gratefully.art,available,3.98,32.98,high,low,10,namecheap,,,13/09/2026 20:28
 490152aa-3ccb-43ca-8417-dfa6227be7b8,better.art,premium,3900,91,high,medium,6,namecheap,,,22/09/2026 20:11
 37f60c6f-4281-4acb-9303-dbcc9c0cd803,dancing.art,premium,291.2,83.3,high,low,7,namesilo,,,25/09/2026 04:44
 bd25d1a9-1699-4c4c-a1a1-a6d727276c0f,stab.art,premium,,,high,low,4,,,,28/09/2026 02:12
 2475b310-3697-48a5-91f4-e884e9cc86fa,aglet.art,available,3.98,32.98,medium,low,5,namecheap,,,17/09/2026 18:21
+49bd736a-69ab-4d7a-9b1d-a48972c148ca,stains.art,premium,65.41,72.65,high,low,6,spaceship,,,29/09/2026 22:47
 3ebdeba2-9c78-469a-a40b-99bd833c3af5,mousy.art,premium,62.48,83.3,medium,low,5,namesilo,,,25/08/2026 08:42
 40cee776-a4b0-4265-a1fa-e24666f0e10d,untethered.art,premium,81.9,91,medium,low,10,namecheap,,,25/09/2026 15:05
 ae9b3bcb-dbec-4c6d-a5a1-cd38c4fc7dfa,uninspired.art,available,3.19,23.99,high,low,10,namesilo,,,12/09/2026 13:05
-5a8b18a7-60d1-46ad-b119-43b39f392850,propranolol.art,available,3.19,23.99,medium,low,11,namesilo,,,20/09/2026 00:29
+5a8b18a7-60d1-46ad-b119-43b39f392850,propranolol.art,available,3.19,23.99,high,low,11,namesilo,,,20/09/2026 00:29
 ef73aec9-07ca-41ce-84bd-aabe4541cb39,debasement.art,premium,41.3,83.3,medium,low,10,namesilo,,,17/09/2026 10:16
 500e7623-aee5-4e76-981e-a0fb0b207a85,slugger.art,premium,131.2,83.3,high,low,7,namesilo,,,22/09/2026 14:18
 eb8de121-626d-4f1b-b7ff-0e172e4eadbe,sheeny.art,premium,62.48,83.3,high,low,6,namesilo,,,20/08/2026 14:32
@@ -536,6 +578,7 @@ eb8de121-626d-4f1b-b7ff-0e172e4eadbe,sheeny.art,premium,62.48,83.3,high,low,6,na
 61879bc6-8db7-4e04-b287-aa32006f02af,boehm.art,premium,291.2,83.3,high,low,5,namesilo,,,23/09/2026 03:39
 f9118e9f-4ecc-42f2-a502-f8541164ab48,resurrection.art,premium,21.94,72.65,high,low,12,spaceship,,,28/09/2026 16:51
 30a62cac-450d-4f36-b607-6ed08caac754,xxxiv.art,premium,62.48,83.3,medium,low,5,namesilo,,,
+24aebcc2-ada6-450c-8e64-6e28ab3a84a1,reproductive.art,premium,20.65,83.3,high,low,12,namesilo,,,29/09/2026 14:35
 53bb31c8-34c8-4d62-949c-da561b904be3,localised.art,premium,131.2,83.3,medium,low,9,namesilo,,,24/08/2026 08:47
 7a316ab2-3472-4d20-baad-696c1e9adf2d,modernized.art,premium,81.9,91,high,low,10,namecheap,,,19/09/2026 17:17
 8fed6d8d-831c-40c0-b98c-484154cb5955,perforate.art,premium,131.2,83.3,high,low,9,namesilo,,,08/09/2026 16:54
@@ -549,11 +592,13 @@ fbb738f3-137d-4662-97ad-760d54a15ae4,clapper.art,premium,153.75,87.5,medium,low,
 f171b391-19a8-4013-8663-f6c7de0e2a7c,leaky.art,premium,131.2,83.3,medium,low,5,namesilo,,,22/08/2026 22:01
 ac1a7022-6eec-407e-9b56-6a0fc6d3820c,twins.art,premium,3900,91,high,medium,5,namecheap,,,25/09/2026 06:26
 fd29be5c-07d8-4b30-9add-0acce46098a6,cooke.art,premium,291.2,83.3,high,low,5,namesilo,,,18/09/2026 06:21
+3f2a8f3f-55d1-44d3-8207-7c0920534b47,keegan.art,premium,135.3,77,medium,low,6,dynadot,,,30/09/2026 00:49
 b1259e8d-7282-4fe1-a3da-0c117119656b,slicked.art,available,3.98,32.98,medium,low,7,namecheap,,,08/09/2026 20:52
-93fff9c4-d874-4f0a-86c3-7fa4fc515d4c,episode.art,premium,341.25,,high,low,7,name.com,,,
 2d8f4063-dff0-4d9e-aa0a-d2186bad654b,guiltless.art,available,3.19,23.99,high,low,9,namesilo,,,12/08/2026 10:18
 fd2b9612-2182-48e0-8d0f-66577aacd018,drums.art,premium,291.2,83.3,medium,low,5,namesilo,,,18/09/2026 11:40
-044e04dd-709e-40af-9f0b-a7241dd51871,bathhouse.art,premium,131.2,83.3,medium,low,9,namesilo,,,22/09/2026 13:35
+25181903-85a0-4688-bf81-8bfff2484a9d,presses.art,premium,43.67,72.65,medium,low,7,spaceship,,,30/09/2026 00:10
+044e04dd-709e-40af-9f0b-a7241dd51871,bathhouse.art,premium,131.2,83.3,high,low,9,namesilo,,,22/09/2026 13:35
+d97a51d8-51c2-46a2-88f5-5f694cf38043,wreckage.art,premium,282.76,72.65,medium,low,8,spaceship,,,29/09/2026 08:20
 edaaad2a-0c9b-4e92-bb96-f17956938fe9,offers.art,premium,354.9,91,high,low,6,namecheap,,,27/09/2026 23:51
 5f206ddf-3ab2-42fc-bfe7-20a387c50535,crossways.art,premium,291.2,83.3,medium,low,9,namesilo,,,14/09/2026 09:48
 70b38049-fbc5-4280-8b04-d08e2acb6881,sighted.art,premium,62.48,83.3,high,low,7,namesilo,,,27/09/2026 21:56
@@ -562,18 +607,20 @@ bc44f4af-745b-4bf2-84c6-45b61afca5f1,without.art,premium,341.25,,high,low,7,name
 5173cbf4-4108-4cda-9820-52972dd7c96a,holden.art,premium,291.2,83.3,high,low,6,namesilo,,,28/09/2026 16:09
 0386ec6b-176a-4978-b9b3-a2a45fe731be,indate.art,available,3.19,23.99,medium,low,7,namesilo,,,
 d7970057-9a2f-45b9-9e9e-9869f0ecce30,charily.art,available,3.19,23.99,medium,low,7,namesilo,,,14/09/2026 06:17
-9a132954-bbe1-429a-97a9-cd9b07e15d2f,yur.art,premium,291.2,83.3,medium,low,3,namesilo,,,
+9a132954-bbe1-429a-97a9-cd9b07e15d2f,yur.art,premium,291.2,83.3,high,low,3,namesilo,,,
 289e5ec0-7de7-48ce-97ed-71d7ca67e4aa,bedsit.art,premium,62.48,83.3,medium,low,6,namesilo,,,22/09/2026 23:36
 392c6e42-1444-4b74-a90e-a3c3fc996612,checkbook.art,premium,78.75,87.5,high,low,9,name.com,,,24/09/2026 13:57
 74bc7045-b808-4fad-a6d4-95bf87338b36,rodrigues.art,premium,291.2,83.3,medium,low,9,namesilo,,,29/09/2026 04:31
 faeb902b-7c93-4c78-bd4f-6caece9632d3,bassist.art,premium,159.9,91,medium,low,7,namecheap,,,22/09/2026 12:26
 b49a2c24-6fe0-46df-b8dc-2788d889ae3b,superbug.art,premium,62.48,83.3,medium,low,8,namesilo,,,23/09/2026 07:17
+608a28ed-85a8-4d35-a0e3-5271ade09ea6,golgi.art,available,3.19,23.99,high,low,5,namesilo,,,30/09/2026 00:57
 8b3a2e40-f9c9-4c22-87d9-61c345477003,macdonald.art,premium,291.2,83.3,high,low,9,namesilo,,,25/09/2026 15:47
 bd3bce42-1ea8-4cd1-8862-fded1a078424,harlot.art,premium,341.25,87.5,medium,low,6,name.com,,,13/08/2026 14:19
 a45bd2e7-0646-453a-b42e-80918d3c60f5,solutions.art,premium,81.9,91,high,low,9,namecheap,,,28/09/2026 10:35
 76260e81-29d0-448e-9a77-e116d61ffe09,iraki.art,available,3.19,23.99,medium,low,5,namesilo,,,22/08/2026 09:37
 fdf22433-25b4-40c9-88ed-7b90d4242904,damned.art,premium,291.2,83.3,medium,low,6,namesilo,,,22/09/2026 21:41
 09e59523-0211-4d40-9f9c-6c715c84c724,gore.art,premium,227.7,83.3,medium,low,4,unstoppable,,,28/09/2026 19:53
+4ff1a919-9c28-4234-b03d-ca3a564c751e,talladega.art,premium,127.51,72.65,medium,low,9,spaceship,,,29/09/2026 22:45
 d3c43e1d-a09e-475b-81a0-d30c49b1a539,kit.art,premium,3450,83.3,high,low,3,namesilo,,,
 315cad65-66e3-4b36-aea4-ac902fd9709e,born.art,premium,354.9,91,high,low,4,namecheap,,,23/09/2026 00:37
 e7daabf0-c60b-4eb8-b9b5-51d4574a6fd5,pcr.art,premium,282.76,72.65,high,low,3,spaceship,,,28/09/2026 03:30
@@ -593,8 +640,9 @@ bf3542ac-ebc6-4c1c-a9f6-72543c89f143,sleepy.art,premium,291.2,83.3,high,low,6,na
 b77babd6-d971-495c-9604-be9c5517a044,midmost.art,available,3.19,23.99,medium,low,7,namesilo,,,24/08/2026 22:29
 1dfcca94-3239-45ac-98ce-9afa85e1f0a4,efficiency.art,premium,348.17,76.94,high,low,10,porkbun,,,28/09/2026 03:34
 79adc260-c3ed-4227-80bd-fb4afa4f14f9,stephen.art,premium,291.2,83.3,high,low,7,namesilo,,,25/09/2026 10:43
-dfde3a5e-fc2f-4c5f-9e07-c25187073b1b,positron.art,premium,159.9,91,medium,low,8,namecheap,,,19/09/2026 14:21
-f3d031a5-c914-4843-ae6d-5156e3163e80,judgement.art,premium,291.2,83.3,high,low,9,namesilo,,,
+dfde3a5e-fc2f-4c5f-9e07-c25187073b1b,positron.art,premium,159.9,91,high,low,8,namecheap,,,19/09/2026 14:21
+f75c93be-3533-4740-8d8d-9bec80e17d95,reminding.art,available,3.49,20.9,high,low,9,spaceship,,,29/09/2026 21:27
+f3d031a5-c914-4843-ae6d-5156e3163e80,judgement.art,premium,282.76,72.65,high,low,9,spaceship,,,30/09/2026 01:01
 b5a10b9a-fc1d-4e83-b527-1d72bcb5e941,flatly.art,premium,62.48,83.3,medium,low,6,namesilo,,,14/09/2026 05:29
 3912263c-f02f-4d26-9011-a61271327488,completion.art,premium,354.9,91,high,low,10,namecheap,,,28/09/2026 10:41
 17b51664-feca-40b8-8dce-aae51a9ca53c,horsehead.art,premium,62.48,83.3,medium,low,9,namesilo,,,20/09/2026 21:40
@@ -608,10 +656,10 @@ aec4406e-69ff-4860-aa50-cfaeef561c56,filling.art,premium,291.2,83.3,high,low,7,n
 0c5a9938-e1a5-4a4f-b138-5068ba15d65b,benchmark.art,premium,354.9,91,high,low,9,namecheap,,,23/09/2026 07:38
 281f26be-ad2c-4d30-aefa-eefb10dac27a,bowed.art,premium,291.2,83.3,medium,low,5,namesilo,,,06/08/2026 14:55
 e2b47cec-b6dd-48a3-b80e-529c71d3ae00,taken.art,premium,3450,83.3,high,low,5,namesilo,,,25/09/2026 10:20
-1f77a1f3-0c19-4e61-be9b-0eee02857425,hubbub.art,premium,62.48,83.3,medium,low,6,namesilo,,,24/09/2026 10:52
+1f77a1f3-0c19-4e61-be9b-0eee02857425,hubbub.art,premium,62.48,83.3,high,low,6,namesilo,,,24/09/2026 10:52
 9157dd05-2448-470b-93db-c0335b5dde8b,nibbed.art,available,3.19,23.99,medium,low,6,namesilo,,,03/09/2026 16:57
 4beb6d83-bcc8-42d6-ad30-9930ad24ca2b,virulent.art,premium,62.48,83.3,medium,low,8,namesilo,,,
-30fc1502-f079-4cf7-a3b8-bd7aea244e29,unisexual.art,available,3.19,23.99,medium,low,9,namesilo,,,12/09/2026 13:54
+30fc1502-f079-4cf7-a3b8-bd7aea244e29,unisexual.art,available,3.19,23.99,high,low,9,namesilo,,,12/09/2026 13:54
 238e49c0-2edf-47db-8d6e-2ee631c14212,terrifies.art,premium,131.2,83.3,low,low,9,namesilo,,,18/09/2026 07:37
 eefbb135-181d-4f3b-bf57-4c006984e243,arioso.art,premium,131.2,83.3,high,low,6,namesilo,,,20/09/2026 05:35
 8559e8bc-062c-4aa5-b31b-fd506bfe2bb2,prompter.art,premium,291.2,83.3,high,low,8,namesilo,,,21/09/2026 06:13
@@ -628,9 +676,10 @@ c9e15e55-630f-4266-b7e0-3f1ba035eb76,anode.art,premium,131.2,83.3,high,low,5,nam
 e02bf81d-34f5-4ba4-9fa7-86542311e3bd,ruminant.art,premium,81.9,91,high,medium,8,namecheap,,,09/09/2026 19:22
 8acebe67-f168-4483-afaa-657169683151,barleycorn.art,premium,62.48,83.3,medium,low,10,namesilo,,,22/09/2026 06:31
 fcb7533e-ee62-4fa5-b1a3-b572b8925770,tical.art,premium,159.9,91,medium,low,5,namecheap,,,21/09/2026 18:48
+a2fca002-e998-4815-a6d9-95d3825becf5,cascade.art,premium,291.2,83.3,high,medium,7,namesilo,,,30/09/2026 01:01
 5080e08e-dd6f-4f04-a699-8a730af6f96b,tracked.art,premium,43.67,72.65,high,low,7,spaceship,,,28/09/2026 09:27
 6c5a04c1-77ce-46b5-854c-20142b3dd236,acknowledge.art,premium,29.4,98,high,low,11,namecheap,,,
-9b382877-f9c0-44c7-a997-7a4c8e5fd1f0,comprehensive.art,premium,20.65,83.3,medium,low,13,namesilo,,,29/09/2026 02:53
+9b382877-f9c0-44c7-a997-7a4c8e5fd1f0,comprehensive.art,premium,20.65,83.3,high,low,13,namesilo,,,29/09/2026 02:53
 b1c6e10a-70b1-4d97-9c90-5e07dab98809,qat.art,premium,131.2,83.3,medium,low,3,namesilo,,,17/09/2026 15:24
 e03c531d-982a-446c-b487-f3d2a4a2e2f4,understands.art,available,3.6,21.11,high,low,11,porkbun,,,28/09/2026 00:05
 31576d3e-8c73-4d07-b6ed-614c8398b0b2,astrakhan.art,premium,291.2,83.3,medium,low,9,namesilo,,,20/09/2026 17:31
@@ -639,6 +688,7 @@ c6b094ca-4280-44b9-8840-cc5a2a447527,limited.art,premium,3900,91,high,low,7,name
 98eecb3f-289f-42e9-bb61-37b12630f0dd,chet.art,premium,282.76,72.65,high,low,4,spaceship,,,29/09/2026 03:38
 dfcc1241-e881-4220-bf7e-0c87db411d03,airstream.art,premium,131.2,83.3,high,low,9,namesilo,,,17/09/2026 23:23
 9422d086-77f2-4d77-ae8d-a2e49daa347a,almoner.art,premium,41.3,83.3,medium,low,7,namesilo,,,18/09/2026 12:40
+d8d69ea4-6776-461f-8c5a-723578bf3ecf,boulogne.art,premium,131.2,83.3,medium,low,8,namesilo,,,29/09/2026 09:58
 4a2b0d93-c7e9-4d76-a3d4-66d24d079bd0,ovens.art,premium,131.2,83.3,medium,low,5,namesilo,,,20/09/2026 10:00
 3f1ff399-1cf8-4da1-8336-f06f2f84c152,blasphemy.art,premium,291.2,83.3,medium,low,9,namesilo,,,24/09/2026 04:15
 8290e480-b2b7-473f-8463-d0e5537350c9,unsealed.art,premium,81.9,91,medium,low,8,namecheap,,,12/09/2026 19:07
@@ -647,7 +697,8 @@ dfcc1241-e881-4220-bf7e-0c87db411d03,airstream.art,premium,131.2,83.3,high,low,9
 4c6e76d5-1cae-4601-9998-e6c10ff78a4e,ballade.art,premium,354.9,91,high,low,7,namecheap,,,21/09/2026 22:41
 167c423f-0a12-4438-8b62-7a967d11ea69,baroque.art,available,,,high,low,7,,,,
 ba807d2c-4ee6-4eeb-9b3f-8bb6605bcfa2,symmetric.art,premium,131.2,83.3,high,low,9,namesilo,,,11/09/2026 06:03
-731466b9-b5dc-449e-a985-fcd3eeaf2aaf,asura.art,premium,354.9,91,medium,low,5,namecheap,,,20/09/2026 18:26
+731466b9-b5dc-449e-a985-fcd3eeaf2aaf,asura.art,premium,354.9,91,high,low,5,namecheap,,,20/09/2026 18:26
+4dc93bca-08d3-46a6-8a29-25963024c9e9,galileo.art,premium,300.3,77,high,low,7,dynadot,,,29/09/2026 12:27
 5985f85d-cf88-458e-a1ae-48b335aee44e,unshaken.art,available,3.19,23.99,high,low,8,namesilo,,,12/09/2026 07:04
 e0717fa9-debb-4434-95c8-82cfa12c9026,bentwood.art,premium,291.2,83.3,high,low,8,namesilo,,,23/09/2026 08:47
 8652768c-2544-4461-98b5-7f8c8dcf2756,asteroidea.art,premium,41.3,83.3,medium,low,10,namesilo,,,20/09/2026 17:14
@@ -658,7 +709,7 @@ ba6489bf-e11f-4700-b096-a79400fe200a,casualties.art,premium,282.76,72.65,medium,
 9a72d946-b851-42f5-8e6d-34a5491c58db,suffered.art,premium,291.2,83.3,low,low,8,namesilo,,,27/09/2026 02:46
 1c1420b0-49f6-4102-b754-920a9aa7c8b1,refuse.art,premium,291.2,83.3,medium,low,6,namesilo,,,27/09/2026 02:42
 f2a3b87f-7674-4ad2-b44b-70a16439184e,sub.art,premium,3450,83.3,high,low,3,namesilo,,,28/09/2026 01:46
-0e6f545b-6192-4de0-be83-eb67d4835c2b,bather.art,premium,131.2,83.3,medium,low,6,namesilo,,,22/09/2026 13:31
+0e6f545b-6192-4de0-be83-eb67d4835c2b,bather.art,premium,131.2,83.3,high,low,6,namesilo,,,22/09/2026 13:31
 bf23cc00-6f4a-421d-a34b-597168f7618a,uuq.art,premium,62.48,83.3,medium,low,3,namesilo,,,20/09/2026 22:18
 d2630bc7-4b76-4d2c-b9a4-a784b2bc8776,barebacked.art,available,3.19,23.99,medium,low,10,namesilo,,,08/08/2026 18:44
 30b0f245-432b-4ff1-a6de-36e8c9062b6a,arbitral.art,premium,131.2,83.3,medium,low,8,namesilo,,,06/08/2026 12:48
@@ -671,7 +722,7 @@ e89ac54c-1fee-40fd-87c9-984b74666a4f,gyroplane.art,premium,131.2,83.3,medium,low
 09df2319-cb61-47ce-9bbf-4586502d040d,gelid.art,premium,78.75,87.5,medium,low,5,name.com,,,18/08/2026 21:05
 d2836588-f556-4bd4-ba3b-2fe45e98c5c9,ladylike.art,premium,131.2,83.3,high,low,8,namesilo,,,22/08/2026 18:38
 2a628c3f-6688-4136-b2d7-9e80a4b809df,negroid.art,available,3.19,23.99,medium,low,7,namesilo,,,03/09/2026 15:14
-4d4ce454-aa85-45b4-8394-29c14286bf27,lowered.art,premium,291.2,83.3,medium,low,7,namesilo,,,25/09/2026 15:26
+4d4ce454-aa85-45b4-8394-29c14286bf27,lowered.art,premium,291.2,83.3,high,low,7,namesilo,,,25/09/2026 15:26
 f61cc54e-c401-4034-99a5-89fb5a9bb43c,umbilical.art,premium,131.2,83.3,high,low,9,namesilo,,,11/09/2026 23:00
 b08ea72f-a9d1-4704-9d28-7bfbd78caa0b,transplant.art,premium,127.51,72.65,high,low,10,spaceship,,,28/09/2026 02:03
 0965df89-9d6a-47dd-a62d-fb295ff48d1b,attractive.art,premium,291.2,83.3,high,low,10,namesilo,,,22/09/2026 11:44
@@ -679,11 +730,12 @@ b08ea72f-a9d1-4704-9d28-7bfbd78caa0b,transplant.art,premium,127.51,72.65,high,lo
 49b4b9e6-be7a-4fd7-a526-cc43b1b2eda7,paris.art,premium,34500,83.3,high,low,5,namesilo,,,24/09/2026 12:17
 8c89fce6-f7e4-4fa8-998d-eadb6f739a19,cart.art,premium,1552.7,72.65,high,low,4,spaceship,,,27/09/2026 12:16
 d0b9f4ce-bdf2-4dad-b7d3-9cf874fc662c,miller.art,premium,291.2,83.3,high,low,6,namesilo,,,18/09/2026 15:01
-5258dd0f-1f94-48e3-8cf3-11e566ea39e1,durer.art,premium,291.2,83.3,medium,low,5,namesilo,,,18/09/2026 03:18
+5258dd0f-1f94-48e3-8cf3-11e566ea39e1,durer.art,premium,291.2,83.3,high,low,5,namesilo,,,18/09/2026 03:18
 3b3bfd59-5e4a-47b8-8dda-8b313a7bf32d,awhile.art,premium,102.7,83.3,medium,low,6,unstoppable,,,28/09/2026 13:12
 e2747655-fab5-4025-af3a-e43ee919ae4f,unblushing.art,available,3.19,23.99,medium,low,10,namesilo,,,10/09/2026 05:55
-14146e04-976e-4a71-9389-4eded54e68fd,southampton.art,premium,20.65,83.3,medium,low,11,namesilo,,,25/09/2026 14:27
+14146e04-976e-4a71-9389-4eded54e68fd,southampton.art,premium,20.65,83.3,high,low,11,namesilo,,,25/09/2026 14:27
 8bc69262-5698-46ee-8313-b50184bb5d54,vestal.art,premium,131.2,83.3,medium,low,6,namesilo,,,13/09/2026 04:47
+5810a0bf-7187-417c-a1b8-173994a04430,chartres.art,premium,65.41,72.65,medium,low,8,spaceship,,,29/09/2026 11:53
 b5c4432a-4013-489c-a5b7-be1bc21f7c3d,exogenous.art,available,3.19,23.99,medium,low,9,namesilo,,,17/08/2026 17:33
 b8d525af-1b11-4632-a56c-e5f24514c39c,coventry.art,premium,291.2,83.3,medium,low,8,namesilo,,,22/09/2026 02:09
 d3145e4c-4719-457c-9884-6bae6486a599,compartment.art,premium,26.96,76.94,high,low,11,porkbun,,,28/09/2026 03:28
@@ -693,16 +745,17 @@ bd5d1ba8-f03a-45a5-ae00-57c961e166ef,simpler.art,premium,41.3,83.3,high,low,7,na
 a72fb3eb-8dc7-4642-9adc-2b6cf079a1ab,geneva.art,premium,1552.7,72.65,high,low,6,spaceship,,,28/09/2026 09:52
 7d33cf2f-6b34-4379-9aa2-b0d51dba39e5,adjuster.art,premium,62.48,83.3,high,low,8,namesilo,,,17/09/2026 08:32
 1de109cb-f97b-4c28-9b3d-931a55a008cf,stealing.art,premium,291.2,83.3,medium,low,8,namesilo,,,11/09/2026 13:24
-ca46ddbd-7ce3-46e1-803c-bd9b162fe0f3,subtropical.art,premium,21.94,72.65,medium,low,11,spaceship,,,28/09/2026 11:31
+ca46ddbd-7ce3-46e1-803c-bd9b162fe0f3,subtropical.art,premium,21.94,72.65,high,low,11,spaceship,,,28/09/2026 11:31
 ffc00e84-2b5b-4809-ae4a-304380512999,equations.art,premium,291.2,83.3,medium,low,9,namesilo,,,18/09/2026 12:39
 15c0d3fb-82a1-4a70-9b0c-4cad74f0e34a,bob.art,premium,1950,91,high,medium,3,namecheap,,,22/09/2026 23:31
 e75e1491-09d8-4179-9487-b0ff15e4c837,primate.art,premium,131.2,83.3,high,low,7,namesilo,,,20/09/2026 02:39
 143da342-8c72-4c86-b4b6-e7f574ac70d2,nubby.art,available,3.19,23.99,medium,low,5,namesilo,,,21/08/2026 11:15
 74ec391f-07b1-4d7f-8075-82360704e925,incidentally.art,premium,21.94,72.65,medium,low,12,spaceship,,,28/09/2026 21:17
+7838a7cc-6d17-4a65-925d-3de5079b7bcc,gland.art,premium,282.76,72.65,medium,low,5,spaceship,,,29/09/2026 07:05
 a6b1acb6-2767-4acf-ab4a-f729cf4f72a5,clathrate.art,available,3.19,23.99,medium,low,9,namesilo,,,11/08/2026 16:23
 85d278f0-e5d2-4762-a96e-338b97d738ce,contained.art,premium,41.3,83.3,high,low,9,namesilo,,,23/09/2026 21:42
-69cfc3b1-7b33-45b1-a721-dfea27ae4675,fibre.art,premium,131.2,83.3,high,low,5,namesilo,,,
-27f0081d-e713-49a5-9746-bc485ff6507d,fingered.art,available,3.19,23.99,medium,low,8,namesilo,,,18/08/2026 04:53
+69cfc3b1-7b33-45b1-a721-dfea27ae4675,fibre.art,premium,156.98,76.94,high,low,5,porkbun,,,29/09/2026 19:17
+27f0081d-e713-49a5-9746-bc485ff6507d,fingered.art,available,3.19,23.99,high,low,8,namesilo,,,18/08/2026 04:53
 2a6f2878-7e6b-41c5-9f23-c4f6e432abfd,glut.art,premium,159.9,91,medium,low,4,namecheap,,,23/09/2026 17:21
 67104fb9-dc3e-4384-ba2e-2b8d955ece4d,potential.art,premium,354.9,91,high,low,9,namecheap,,,27/09/2026 04:46
 056429df-69c1-46b6-b8bf-b9f777e76895,cocker.art,premium,291.2,83.3,medium,low,6,namesilo,,,21/09/2026 13:01
@@ -730,13 +783,14 @@ b83d0b76-9811-48c7-b5ad-918ac8f75031,traceable.art,premium,62.48,83.3,high,low,9
 25b90965-9d1d-4c37-a362-683f7d5a1381,suburbs.art,premium,354.9,91,low,low,7,namecheap,,,29/09/2026 05:04
 7eee2dc8-7ca7-487d-8848-039fbc0f7c31,slammer.art,premium,131.2,83.3,medium,low,7,namesilo,,,08/09/2026 22:49
 ee4f8578-3d5a-4717-8932-8ad0dff0a678,routledge.art,premium,131.2,83.3,medium,low,9,namesilo,,,28/09/2026 16:54
-a2d63dd4-03e1-4cff-8f35-8078fbc69f7f,theban.art,premium,41.3,83.3,medium,low,6,namesilo,,,11/09/2026 12:35
+a2d63dd4-03e1-4cff-8f35-8078fbc69f7f,theban.art,premium,41.3,83.3,high,low,6,namesilo,,,11/09/2026 12:35
 b9e0ac12-25ad-463b-a290-91a9416b03c0,sternal.art,premium,81.9,91,medium,low,7,namecheap,,,10/09/2026 20:18
 9610df21-d51d-4cf1-8f48-9d212bea15d5,anoxia.art,premium,54.6,91,medium,low,6,namecheap,,,19/09/2026 11:58
-c39fff0a-f9e2-4aa4-9fd4-54fb69e2b704,reliable.art,premium,291.2,83.3,high,low,8,namesilo,,,22/09/2026 13:45
+c39fff0a-f9e2-4aa4-9fd4-54fb69e2b704,reliable.art,premium,282.76,72.65,high,low,8,spaceship,,,29/09/2026 13:47
 212d7c44-568f-4c5c-ad54-9df3b05bee29,atrocious.art,premium,131.2,83.3,medium,low,9,namesilo,,,22/09/2026 11:11
-5aeba244-1ef5-4656-a12a-bacb2b7871a5,guts.art,premium,153.75,,high,low,4,name.com,,,
+5aeba244-1ef5-4656-a12a-bacb2b7871a5,guts.art,premium,127.51,72.65,high,low,4,spaceship,,,29/09/2026 21:51
 76e266a4-3d26-4b06-afcc-57680f2cda16,amor.art,premium,291.2,83.3,high,low,4,namesilo,,,18/09/2026 22:37
+31a8f51a-5ad5-4699-bd91-1b156c600ee8,ivor.art,premium,131.2,83.3,high,low,4,namesilo,,,29/09/2026 22:08
 9e666604-ecef-46c0-a73c-983b2130934b,segmented.art,available,3.19,23.99,medium,low,9,namesilo,,,24/08/2026 21:43
 42be0d14-0dd1-4a47-a160-887975871aee,depending.art,available,3.19,23.99,medium,low,9,namesilo,,,27/09/2026 22:26
 3b2d56a4-8d86-4843-b9a0-5aeb2bd806c1,stagey.art,available,3.98,32.98,medium,low,6,namecheap,,,10/09/2026 18:06
@@ -744,7 +798,7 @@ c39fff0a-f9e2-4aa4-9fd4-54fb69e2b704,reliable.art,premium,291.2,83.3,high,low,8,
 a8ecf87e-8c9d-4718-828c-0eea71aeaf99,helped.art,premium,54.6,91,medium,low,6,namecheap,,,25/09/2026 18:33
 7eaf95ae-3c0c-4ed6-8f00-f143cc83d58c,opposed.art,available,3.19,23.99,high,low,7,namesilo,,,04/09/2026 16:45
 ec2b67f1-4022-4509-8d28-c13947fc4f79,barycenter.art,available,3.19,23.99,medium,low,10,namesilo,,,22/09/2026 09:39
-9888d0ae-fdf1-4af2-b053-2c84baa7e29b,company.art,premium,227.7,91,high,low,7,unstoppable,,,28/09/2026 02:42
+9888d0ae-fdf1-4af2-b053-2c84baa7e29b,company.art,premium,227.7,91,high,low,7,unstoppable,,,30/09/2026 01:24
 f5b8fab2-9e6e-44de-aba5-4c78e4b02f1b,academism.art,available,3.98,32.98,medium,low,9,namecheap,,,16/09/2026 20:23
 29306b17-bba2-45bf-a988-ea19bd0940de,moroccan.art,premium,291.2,83.3,high,low,8,namesilo,,,24/08/2026 16:17
 a9c5f14d-2259-40b3-83ad-ee2975fc3b83,calgary.art,premium,291.2,83.3,high,low,7,namesilo,,,24/09/2026 11:43
@@ -755,8 +809,9 @@ a9c5f14d-2259-40b3-83ad-ee2975fc3b83,calgary.art,premium,291.2,83.3,high,low,7,n
 db0df286-d17c-4b4d-931e-b3a16ac87784,unlovely.art,available,3.19,23.99,medium,low,8,namesilo,,,12/09/2026 15:12
 f70a373c-1b33-4c11-8307-20c3935f223c,liquor.art,premium,348.17,76.94,high,low,6,porkbun,,,29/09/2026 03:40
 e7871926-688a-4fb1-a13a-2b69789e5845,lithuanian.art,premium,131.2,83.3,high,low,10,namesilo,,,24/08/2026 07:30
+5a181a86-0857-4070-9b4d-1844a3a3e0d5,narrates.art,available,3.49,20.9,medium,low,8,spaceship,,,29/09/2026 17:58
 c4b91f73-611e-43f1-9c87-c610368fe11a,achromatic.art,premium,62.48,83.3,medium,low,10,namesilo,,,
-7d538e82-0ac6-4017-950f-5e1230f843cd,mcnamara.art,premium,131.2,83.3,medium,low,8,namesilo,,,27/09/2026 08:09
+7d538e82-0ac6-4017-950f-5e1230f843cd,mcnamara.art,premium,131.2,83.3,high,low,8,namesilo,,,27/09/2026 08:09
 8adfa1a4-fd3b-4cda-88ab-4a6959a9a501,russian.art,premium,3900,91,high,low,7,namecheap,,,27/09/2026 17:35
 46e49f18-ca31-4915-b339-bbfe0029cb93,phantasmal.art,available,3.19,23.99,medium,low,10,namesilo,,,06/08/2026 05:33
 8db548c8-7563-4f37-8e6c-ce40c3e49838,mithraic.art,available,3.19,23.99,medium,low,8,namesilo,,,25/08/2026 01:58
@@ -770,22 +825,28 @@ c72ac720-9a76-4a8a-ab50-ac1e2c289250,borodin.art,premium,354.9,91,high,low,7,nam
 8390a7c9-17da-4d99-ac02-94b6d44bc7e6,basilisk.art,premium,291.2,83.3,high,low,8,namesilo,,,22/09/2026 10:54
 5a4bc61a-fa74-462c-85e2-68cf34b2dcc7,starring.art,premium,282.76,72.65,medium,low,8,spaceship,,,28/09/2026 22:41
 5317def5-4ff8-47ea-a847-b13d43ff0371,quantities.art,available,3.19,23.99,low,low,10,namesilo,,,
+a20ece9e-6e41-4325-82fe-8f8430eeeeda,specify.art,premium,227.7,,high,low,7,unstoppable,,,29/09/2026 20:40
 09966209-aa04-48b7-b13d-127dba54607a,simplex.art,premium,291.2,83.3,high,medium,7,namesilo,,,10/09/2026 08:15
 f4083436-d7dc-4475-8ce5-b33eca04b3a8,addin.art,premium,354.9,91,high,low,6,namecheap,,,17/09/2026 06:37
 eccc601e-800f-4497-8248-14de6b407343,deviate.art,premium,62.48,83.3,high,low,7,namesilo,,,
 6e279461-e36e-48eb-b505-2566a816fc50,oatmeal.art,premium,291.2,83.3,high,low,7,namesilo,,,29/09/2026 05:27
+194b58e0-2192-4e2d-82d0-ea15af4f1c02,amr.art,premium,282.76,72.65,high,low,3,spaceship,,,29/09/2026 22:13
 c71cf1eb-cbf2-408f-9771-ab3c1683e5db,bevin.art,premium,62.48,83.3,medium,low,5,namesilo,,,23/09/2026 12:05
 58ce0a0d-a9b2-44fe-ba74-2f527ac1f4b6,alces.art,premium,131.2,83.3,high,low,5,namesilo,,,18/09/2026 03:55
 9c315f38-0743-4368-9800-562eb01b4d02,dragging.art,premium,52.5,87.5,high,low,8,name.com,,,14/08/2026 18:16
+01bc815e-9b85-4db0-bccf-499af2e4ee1a,wha.art,premium,282.76,72.65,high,low,3,spaceship,,,29/09/2026 14:45
 2c11e5b8-0ff7-4786-a244-42b2aec0acf9,harold.art,premium,291.2,83.3,high,low,6,namesilo,,,
 85297d78-d1f8-4859-ab20-e0eccb889edc,filed.art,premium,131.2,83.3,medium,low,5,namesilo,,,
 d18bec4b-67a6-43c6-8e66-6e218f2e132a,livelihood.art,premium,62.48,83.3,high,low,10,namesilo,,,29/09/2026 00:16
 706bace7-3500-43ee-af42-56c772db1cd1,toothless.art,premium,131.2,83.3,medium,low,9,namesilo,,,11/09/2026 17:15
 c9e11fec-8548-4787-822e-f774f6072e41,rosy.art,premium,291.2,83.3,high,low,4,namesilo,,,18/08/2026 09:27
-d91ddd80-ade4-49ec-b99a-b685cd1a2acf,knowingly.art,available,3.19,23.99,medium,low,9,namesilo,,,15/09/2026 10:35
+d91ddd80-ade4-49ec-b99a-b685cd1a2acf,knowingly.art,available,3.19,23.99,high,low,9,namesilo,,,15/09/2026 10:35
 3e1867e9-db5d-4414-b3be-2967c7bfdb92,sinking.art,premium,282.76,72.65,medium,low,7,spaceship,,,28/09/2026 06:45
+e7e51b4f-cde7-4ac2-93ca-94fa7a112ccd,abelian.art,premium,62.48,83.3,high,low,7,namesilo,,,29/09/2026 08:39
 f6c7047e-8ea7-464b-a2d8-47c071365fa0,vicinal.art,premium,62.48,83.3,medium,low,7,namesilo,,,13/09/2026 05:27
+1c92dcda-bf2d-4b71-99a4-3fb274fe386f,instability.art,premium,26.96,76.94,medium,low,11,porkbun,,,29/09/2026 23:37
 96aab161-97ca-42eb-b6b8-7fc635252e98,darrell.art,premium,131.2,83.3,low,low,7,namesilo,,,28/09/2026 13:15
+5869c8d0-7257-4ea1-9ffb-a42ae9069490,confiscated.art,premium,21.94,72.65,low,low,11,spaceship,,,29/09/2026 11:03
 30ee6481-0fa4-4264-a41d-5643bd2cce14,castrated.art,premium,78.75,87.5,medium,low,9,name.com,,,11/08/2026 20:30
 250a8490-ec16-4403-985c-605612140758,bluster.art,premium,131.2,83.3,medium,low,7,namesilo,,,11/08/2026 01:07
 a4b9eb14-1182-4e36-8581-a87c03585aa5,taxing.art,premium,62.48,83.3,medium,low,6,namesilo,,,11/08/2026 10:33
@@ -793,8 +854,10 @@ d8091db6-0796-464e-9166-480b9bfea69e,demonstrations.art,premium,20.65,83.3,mediu
 eed18403-8680-4206-94c6-49d609c3c18c,draining.art,premium,52.5,87.5,medium,low,8,name.com,,,14/08/2026 18:19
 ae9aea6b-7b4f-4546-a564-f4524dd64d41,agua.art,premium,354.9,91,high,low,4,namecheap,,,17/09/2026 20:04
 36d757ba-4c65-4b67-89a8-b95724852fa6,hiv.art,premium,291.2,83.3,high,low,3,namesilo,,,25/09/2026 07:23
+0615d9c1-31b4-432d-b013-79c926ee6d2a,bcs.art,premium,291.2,83.3,high,low,3,namesilo,,,29/09/2026 15:15
 f01dfccb-ec20-4960-9f45-daaf220657c6,attractor.art,premium,131.2,83.3,high,low,9,namesilo,,,21/09/2026 02:12
 c46bd4d2-5b88-450f-8d53-c953c39ae609,solemn.art,premium,291.2,83.3,high,low,6,namesilo,,,14/08/2026 22:33
+743c4933-1cb1-44ba-b2f0-06769e246be4,siblings.art,premium,282.76,72.65,medium,low,8,spaceship,,,29/09/2026 10:27
 b7701881-1c2e-4c92-818c-58d77c892a67,finitely.art,available,3.19,23.99,medium,low,8,namesilo,,,14/09/2026 18:35
 5e41f90e-a253-4815-9c6f-48d53966dc28,ellen.art,premium,1662.5,83.3,high,low,5,namesilo,,,
 d3f2de26-504f-4ac1-be87-0c1682e74670,goldbrick.art,premium,41.3,83.3,medium,low,9,namesilo,,,20/08/2026 16:29
@@ -816,7 +879,7 @@ e5e350dd-0354-4c20-8e6b-1bd852dd0fb7,venerable.art,premium,65.41,72.65,high,low,
 d9dfd85c-9669-429c-a7ec-a27daa549135,enumerable.art,available,3.19,23.99,medium,low,10,namesilo,,,13/08/2026 03:30
 e3256026-7f78-4a57-822a-0b0b0c447956,qing.art,premium,291.2,83.3,high,low,4,namesilo,,,27/09/2026 12:26
 55231b18-c08b-430a-ac28-e46cbcb2113b,greasewood.art,available,3.98,32.98,medium,low,10,namecheap,,,24/09/2026 00:46
-81b43af1-0225-40a4-a395-f9898ba2103c,burnett.art,premium,291.2,83.3,medium,low,7,namesilo,,,25/09/2026 03:44
+81b43af1-0225-40a4-a395-f9898ba2103c,burnett.art,premium,291.2,83.3,high,low,7,namesilo,,,25/09/2026 03:44
 69e8b881-18d4-4757-bdfd-f981022a6f1d,shaky.art,premium,291.2,83.3,medium,low,5,namesilo,,,27/09/2026 14:56
 e7cc8174-91ee-4e4c-be10-166fd6838697,luggage.art,premium,282.76,72.65,high,low,7,spaceship,,,29/09/2026 00:30
 f12afa31-0a03-47bd-a151-576af8503f03,dud.art,premium,341.25,87.5,high,low,3,name.com,,,14/08/2026 20:55
@@ -849,35 +912,36 @@ b7d96a28-0225-42d1-9e0e-47420a487761,pekan.art,premium,131.2,83.3,medium,low,5,n
 738aeb24-b5b2-4da1-a6ba-89a984ab094f,ament.art,premium,81.9,91,medium,low,5,namecheap,,,18/09/2026 18:57
 88cbdd6c-7ffa-4ee1-9983-874d41088913,sinning.art,available,3.19,23.99,high,medium,7,namesilo,,,10/09/2026 08:31
 cce06299-b117-4157-9737-55eb71a5edb7,assemble.art,premium,354.9,91,high,low,8,namecheap,,,28/09/2026 09:53
+f4c64606-af57-4433-851f-f6e4fd379e0d,jaffa.art,premium,131.2,83.3,high,low,5,namesilo,,,29/09/2026 13:12
 13c175dd-9b5e-417b-957c-4bc872f5d3ce,exegetic.art,available,3.19,23.99,medium,low,8,namesilo,,,17/08/2026 16:59
+a802032f-f4b1-42da-a250-3997e05f4dbd,hepatitis.art,premium,127.51,72.65,high,low,9,spaceship,,,29/09/2026 19:09
 d370ee5a-283a-4ae0-af03-df2344a5afa3,melee.art,premium,291.2,83.3,high,low,5,namesilo,,,22/09/2026 16:23
 1e09cee7-e1f8-4732-b51a-4cd0b3c140c4,whatever.art,premium,291.2,83.3,high,low,8,namesilo,,,22/09/2026 06:56
 d8404983-f178-4541-9989-d752e23ac225,reduced.art,premium,62.48,83.3,medium,low,7,namesilo,,,13/08/2026 22:10
 d207d81d-f42b-4f8e-b234-e241611891dd,tersely.art,available,3.19,23.99,medium,low,7,namesilo,,,16/09/2026 08:13
-e9ce18e4-2b2d-4dc9-b2a5-24cd46733eef,xxxi.art,premium,291.2,83.3,medium,low,4,namesilo,,,
+e9ce18e4-2b2d-4dc9-b2a5-24cd46733eef,xxxi.art,premium,291.2,83.3,high,low,4,namesilo,,,
 53956a80-5913-4e1d-8a02-a8347c74dd57,fishtail.art,premium,131.2,83.3,medium,low,9,namesilo,,,
 9fb4b459-78bc-4eee-86da-8cbaa59a96a1,coordinates.art,premium,20.65,83.3,medium,low,11,namesilo,,,28/09/2026 04:24
 ab7b08b1-4e42-49c9-881e-78c607d3e7b8,ballad.art,premium,341.25,87.5,high,low,6,name.com,,,22/08/2026 21:27
-1496dc5e-8949-4470-ac89-9142264b699e,detached.art,premium,354.9,91,medium,low,8,namecheap,,,24/09/2026 07:07
+1496dc5e-8949-4470-ac89-9142264b699e,detached.art,premium,354.9,91,high,low,8,namecheap,,,24/09/2026 07:07
 527764b0-ac70-4a4c-ba56-3252e5a37b6c,supported.art,available,4.5,23.99,high,low,9,unstoppable,,,28/09/2026 02:01
 3bebfb78-ecf4-4df6-8784-0d744b3b028f,armor.art,premium,354.9,91,high,low,5,namecheap,,,20/09/2026 07:21
+d77b6f88-adeb-4c01-9e62-8713f709e8aa,concepts.art,premium,156.98,76.94,medium,low,8,porkbun,,,29/09/2026 22:50
 79558d3b-236a-41cb-82f5-6a283f5e241e,arundel.art,premium,52.7,,medium,low,7,unstoppable,,,28/09/2026 12:04
-9f1b7840-a095-4fa0-ae06-05d1d1bca726,lisbon.art,available,,,high,low,6,,,,
 1afe26c3-bdb5-4f94-877c-fa190f802abc,autogeny.art,available,3.19,23.99,medium,low,8,namesilo,,,16/09/2026 15:57
 adf33791-75d4-4a88-bfc8-709db6dc9eb6,bipedal.art,available,3.19,23.99,high,low,7,namesilo,,,10/08/2026 05:09
 00207a28-52e2-4b64-b386-b7596f828009,antlered.art,available,3.19,23.99,medium,low,8,namesilo,,,05/08/2026 20:11
 287a07db-df42-4d57-8535-9b4da9cbb45a,teller.art,premium,291.2,83.3,high,low,6,namesilo,,,22/09/2026 02:23
 e3c204d7-4f63-4123-a1ee-1e38cbac7e24,thumbs.art,premium,81.9,91,medium,low,6,namecheap,,,18/09/2026 14:13
 41a34beb-34b2-4121-8618-07112f441d83,comically.art,available,3.19,23.99,medium,low,9,namesilo,,,14/09/2026 07:31
-7cbcc113-e762-49c5-a1fb-aee40edfc307,haiti.art,available,,,high,high,5,,,,
 8a75e3ee-8536-4e92-8d43-bd14f91f8b62,rusty.art,premium,291.2,83.3,high,low,5,namesilo,,,04/09/2026 18:46
-a7726c25-10b5-43cd-af39-dc4b4d0bc845,ascetic.art,premium,62.48,83.3,medium,low,7,namesilo,,,07/08/2026 00:56
+a7726c25-10b5-43cd-af39-dc4b4d0bc845,ascetic.art,premium,62.48,83.3,high,low,7,namesilo,,,07/08/2026 00:56
 79f22c87-e4ab-4528-a31d-b5c4d54f9ec5,viridity.art,available,3.19,23.99,high,low,8,namesilo,,,20/08/2026 19:47
 2502de4c-1c9a-4ba9-b3d8-0fe61a159213,befog.art,premium,41.3,83.3,medium,low,5,namesilo,,,03/09/2026 23:52
-f37e65dd-b787-45a1-99dd-6acba0f45fad,jumper.art,premium,282.76,72.65,medium,low,6,spaceship,,,29/09/2026 01:28
+f37e65dd-b787-45a1-99dd-6acba0f45fad,jumper.art,premium,282.76,72.65,high,low,6,spaceship,,,29/09/2026 01:28
 5e47fe9f-c636-40c9-a8c7-6394d8cc4115,unimportant.art,available,5.99,,medium,low,11,name.com,,,
 350c77c1-ed9e-425e-a92e-1ab33700811b,preset.art,premium,291.2,83.3,high,medium,6,namesilo,,,09/09/2026 01:24
-93dfd946-6f88-405f-9165-ee0a0b763efd,girth.art,premium,131.2,83.3,high,low,5,namesilo,,,
+93dfd946-6f88-405f-9165-ee0a0b763efd,girth.art,premium,102.7,83.3,high,low,5,unstoppable,,,29/09/2026 09:10
 145d8410-5dfa-4d0d-8859-a6d68733b850,hatless.art,available,3.19,23.99,medium,low,7,namesilo,,,21/08/2026 01:20
 0f4f02ed-ef31-4a0e-a872-87ed17909972,rudolf.art,premium,291.2,83.3,high,low,6,namesilo,,,25/09/2026 15:40
 8ae2aa52-6b27-49ce-907f-82cb9b931427,bicycling.art,premium,62.48,83.3,high,low,9,namesilo,,,23/09/2026 13:28
@@ -909,7 +973,7 @@ fee33689-05b8-4f3e-ac9f-e00b2f919945,unloaded.art,available,3.19,23.99,medium,lo
 9e67e7fe-b5dd-4b9c-b217-27c7c1c92344,butter.art,premium,354.9,91,high,low,6,namecheap,,,29/09/2026 05:32
 f1ac9e49-e299-4879-9c8a-976e7004798d,midland.art,premium,291.2,83.3,high,low,7,namesilo,,,24/08/2026 22:36
 c3ddccb3-ed2a-4d9f-b82a-7a043fd8a697,ignition.art,premium,291.2,83.3,high,low,8,namesilo,,,28/09/2026 10:06
-b2ef8d2e-ccb2-4194-8e2e-b086534077b8,sun.art,premium,3450,83.3,high,medium,3,namesilo,,,
+b2ef8d2e-ccb2-4194-8e2e-b086534077b8,sun.art,premium,3450,83.3,high,medium,3,namesilo,,,29/09/2026 16:32
 50d96079-1675-4553-b2b0-5511f5f86630,herr.art,premium,227.7,,medium,low,4,unstoppable,,,28/09/2026 10:03
 897a9b49-05e1-436d-9ba2-02bf82ec7e0b,correct.art,premium,291.2,83.3,high,low,7,namesilo,,,23/09/2026 23:33
 380ac6f2-932f-4aef-9eb9-ec2a0dd29fdf,wil.art,premium,282.76,72.65,medium,low,3,spaceship,,,28/09/2026 21:44
@@ -917,7 +981,7 @@ b2ef8d2e-ccb2-4194-8e2e-b086534077b8,sun.art,premium,3450,83.3,high,medium,3,nam
 7d58eccb-91b2-481c-a2e3-29c3db6bfa8a,lena.art,premium,291.2,83.3,high,low,4,namesilo,,,25/09/2026 08:55
 758faced-081b-4268-9a12-9999af40008a,untapped.art,premium,159.9,91,medium,low,8,namecheap,,,12/09/2026 21:02
 392357f3-370e-4433-b665-1fcb565afa0b,sloppy.art,premium,291.2,83.3,high,low,6,namesilo,,,08/08/2026 08:22
-10e0d0d9-c714-4087-be7f-e761c162b847,garage.art,premium,1662.5,83.3,high,low,6,namesilo,,,
+10e0d0d9-c714-4087-be7f-e761c162b847,garage.art,premium,1662.5,83.3,high,medium,6,namesilo,,,29/09/2026 20:41
 0ea9a4cd-8514-47fb-a973-b215e5dc3ed9,bonnie.art,premium,341.25,87.5,high,low,6,name.com,,,10/08/2026 18:47
 7660da53-1fc7-440d-bb81-028842707975,forensic.art,premium,291.2,83.3,high,low,8,namesilo,,,08/09/2026 15:50
 99a7cdc4-894a-4943-b6fa-b9c7469533cf,undogmatic.art,available,3.19,23.99,medium,low,10,namesilo,,,18/08/2026 14:50
@@ -935,67 +999,3 @@ c9162e03-0f26-4199-a823-8aa2b7d7c1a9,alopecia.art,premium,131.2,83.3,medium,low,
 9dccd60f-71aa-4585-abd2-f05e9ab355c7,relational.art,premium,131.2,83.3,high,low,10,namesilo,,,09/09/2026 13:20
 594b0d84-21dd-4ed0-9531-fbe66aa9c8a6,gordon.art,premium,291.2,83.3,high,low,6,namesilo,,,25/09/2026 11:43
 614a0383-7adf-41e1-9e17-2fbfc3b1de35,baptism.art,premium,291.2,83.3,high,low,7,namesilo,,,22/09/2026 03:27
-e7f57f55-87dd-4ed1-9da4-841b8621b294,secondhand.art,premium,291.2,83.3,high,low,10,namesilo,,,10/09/2026 01:09
-6a5582be-b953-4eda-8311-6e579437b1eb,punctually.art,available,3.19,23.99,medium,low,10,namesilo,,,14/09/2026 14:45
-06ee27d6-e3c8-4451-8edc-9f1cf54553d4,spareribs.art,available,3.19,23.99,high,low,9,namesilo,,,22/09/2026 04:41
-fa12fed9-0049-43dc-9ac9-c0c6f3abb3b9,offbeat.art,premium,291.2,83.3,high,low,7,namesilo,,,17/08/2026 22:21
-01b0351c-903f-488c-8c11-08d85e9c1993,aramus.art,available,3.19,23.99,medium,low,6,namesilo,,,19/09/2026 23:57
-8737fb74-3ce1-41c1-9382-e369e5cbeaf5,ptsd.art,premium,291.2,83.3,medium,low,4,namesilo,,,28/09/2026 10:45
-c092aac0-a0e6-4116-a066-f3f3dd2bc9ec,purplish.art,premium,62.48,83.3,high,medium,8,namesilo,,,09/09/2026 06:22
-ec18539b-94fe-4246-8e01-dba5d1d3a429,motherly.art,premium,131.2,83.3,high,low,8,namesilo,,,25/08/2026 07:06
-73cbe935-9c87-4a21-b334-19ee5e410026,psychology.art,premium,1662.5,83.3,high,low,10,namesilo,,,
-87f5c22f-0361-4967-8d38-24072f607d7a,slippery.art,premium,291.2,83.3,medium,low,8,namesilo,,,10/09/2026 11:01
-594c3c3c-46b5-45a6-be9a-e82dd5288e36,hurry.art,premium,282.76,72.65,high,low,5,spaceship,,,27/09/2026 17:14
-fe39d988-8a08-46ed-99c0-a30c0cd7492e,athyrium.art,available,3.98,32.98,medium,low,8,namecheap,,,20/09/2026 21:22
-101255a0-c3d8-4c5a-a9ff-a09ad1ba6508,pyrenees.art,premium,131.2,83.3,high,low,8,namesilo,,,
-e6f6e7eb-25a8-430c-ae36-3d48fb921e34,bleeder.art,premium,131.2,83.3,medium,low,7,namesilo,,,24/09/2026 05:24
-fea04f4c-e2e1-40ea-aae7-da974be12a03,vacuous.art,available,3.19,23.99,low,low,7,namesilo,,,07/08/2026 02:52
-3f2cdfb3-182b-4b90-b8ff-11fcaa5677c3,jealous.art,premium,291.2,83.3,high,low,7,namesilo,,,24/09/2026 01:04
-295393b5-4591-4f04-b984-6e20392f5cfc,closes.art,premium,291.2,83.3,medium,low,6,namesilo,,,28/09/2026 05:00
-b3a9220f-8d76-4f2f-80c1-8d9f91835d78,annie.art,premium,3900,91,medium,low,5,namecheap,,,25/09/2026 18:17
-6c02671b-5fa7-4867-a0f5-c60007a957fc,anterior.art,premium,291.2,83.3,high,low,8,namesilo,,,
-539b5f32-2be3-4a54-a678-7eb57ca8407c,athletic.art,premium,354.9,91,high,low,8,namecheap,,,21/09/2026 16:12
-38b44f5e-1d8a-498a-a09b-d2f52f4a8bf0,aliyah.art,premium,131.2,83.3,high,low,6,namesilo,,,18/09/2026 08:11
-081de77b-6d7e-4a00-ab41-ed93625e767b,death.art,premium,1662.5,83.3,high,low,5,namesilo,,,24/09/2026 12:39
-42d218d3-f001-4e26-a289-dab8c3cbf621,apsu.art,premium,62.48,83.3,medium,low,4,namesilo,,,19/09/2026 22:37
-115ac637-da5e-4d2a-b94e-5f60545325a9,supermarket.art,premium,1662.5,83.3,high,low,11,namesilo,,,
-e5353661-b28f-4081-805e-04c3ed002be7,marxist.art,premium,153.75,87.5,high,low,7,name.com,,,10/08/2026 17:53
-fe592bbe-69c8-46df-aad4-48e7683c3beb,reflects.art,premium,41.3,83.3,medium,low,8,namesilo,,,17/09/2026 15:27
-f095756b-ecff-45d4-8e0a-1540dd267b7c,algebra.art,premium,291.2,83.3,high,low,7,namesilo,,,18/09/2026 06:54
-85754f7f-524f-4fd6-a4f4-4522196458c1,nervy.art,premium,62.48,83.3,medium,low,5,namesilo,,,11/08/2026 02:28
-c1eda765-ec19-446c-a0e9-a349555c21e4,sloth.art,premium,282.76,72.65,high,low,5,spaceship,,,28/09/2026 17:33
-1ceee955-2d8f-4aba-83e6-2208fe973426,tycoon.art,premium,291.2,83.3,high,low,6,namesilo,,,23/09/2026 14:18
-51e7f18a-393f-4196-b782-7a94b0c507cf,whitefish.art,premium,131.2,83.3,medium,low,10,namesilo,,,
-072156f2-b5d9-438c-b668-cb1e62685fcd,ipsus.art,premium,41.3,83.3,medium,low,5,namesilo,,,22/09/2026 15:09
-006391d1-a5fd-47f4-9df3-4704063d2a55,dior.art,premium,291.2,83.3,high,medium,4,namesilo,,,24/09/2026 14:51
-99d1495a-e0c4-491c-ad8c-485405ead5e8,lustful.art,premium,341.25,87.5,medium,low,7,name.com,,,12/08/2026 20:18
-5f019d57-de17-49b4-8342-f25816ed6958,backpack.art,premium,300.3,77,high,low,8,dynadot,,,29/09/2026 00:17
-2f407346-978f-4d6e-b99a-d8aa51ebc56f,somali.art,premium,291.2,83.3,medium,low,6,namesilo,,,10/09/2026 13:58
-4680e132-24cc-4014-babe-9beaba71a753,ourselves.art,premium,354.9,91,medium,low,9,namecheap,,,27/09/2026 08:55
-ac550947-136a-4005-84e8-0b74f5c86d6e,devotion.art,premium,291.2,83.3,high,low,8,namesilo,,,
-00c457f0-c77c-46e9-a9b9-6db4293eedd4,stabbed.art,premium,127.51,72.65,low,low,7,spaceship,,,28/09/2026 00:02
-afd46c42-0b36-41d5-8d64-b90c76eea2c3,concession.art,premium,131.2,83.3,high,low,10,namesilo,,,24/09/2026 17:04
-3e6b00f1-5f50-413b-bdb7-b71a1cf538ba,acetate.art,premium,291.2,83.3,medium,low,7,namesilo,,,17/09/2026 00:03
-31357819-70fc-4a14-acd4-411e44c741ae,viciously.art,available,3.19,23.99,medium,low,9,namesilo,,,14/09/2026 01:35
-35a17662-d9c8-474b-8f45-719f0eff9ead,avoid.art,premium,291.2,83.3,high,low,5,namesilo,,,13/09/2026 06:44
-c9e35bc2-706a-4112-af2f-3b42f443ba59,tuscany.art,premium,282.76,72.65,high,low,7,spaceship,,,27/09/2026 16:08
-32191161-9365-40dd-b39c-4fd9290d5b0a,comprehend.art,premium,131.2,83.3,high,low,10,namesilo,,,
-a937f657-4f38-40ed-a139-473b3211301f,terzetto.art,premium,62.48,83.3,medium,low,8,namesilo,,,
-56aaca53-db46-41d5-8017-d9a4800ae206,adenine.art,available,3.19,23.99,medium,low,7,namesilo,,,17/09/2026 07:24
-7852e332-73ab-4ddb-b731-c946dfeb5a95,sperry.art,premium,291.2,83.3,medium,low,6,namesilo,,,29/09/2026 00:47
-7a15f326-c46c-488b-abce-481c8f01588f,sarcosomal.art,available,3.98,32.98,high,medium,10,namecheap,,,09/09/2026 21:29
-2efc773c-3907-43c4-8169-38ae9ab16abb,productive.art,premium,153.75,87.5,high,low,10,name.com,,,18/08/2026 21:26
-3b89e263-5a23-47da-8f37-cf43f3b1e413,crucify.art,premium,341.25,87.5,medium,low,7,name.com,,,14/08/2026 21:17
-ebe11475-c94a-4143-88ce-5b40e4b96600,louise.art,premium,291.2,83.3,high,low,6,namesilo,,,25/09/2026 13:47
-30db043a-d991-4f08-acdf-708605e36155,worthful.art,available,3.19,23.99,medium,low,8,namesilo,,,13/09/2026 13:26
-eb7576eb-7db7-45d8-b8fa-1ef3785ff593,exposure.art,premium,291.2,83.3,high,low,8,namesilo,,,08/09/2026 13:44
-aafc79d1-7688-4856-87ff-4a84ac234983,northampton.art,premium,27.3,91,medium,low,11,namecheap,,,25/09/2026 14:57
-fcb6ac20-a6aa-4454-9738-4deb0dd62b4e,floury.art,available,3.19,23.99,medium,low,6,namesilo,,,18/08/2026 09:00
-2278729f-ab93-4084-bbd6-3a35ca561478,asian.art,premium,3450,83.3,high,low,5,namesilo,,,22/09/2026 09:40
-f9efd50f-c381-408c-9cdc-ff3e649f97a5,skilful.art,premium,159.9,91,high,low,7,namecheap,,,21/09/2026 17:29
-e4fcc569-1372-43e7-b759-e02b2044b7fe,movies.art,premium,3450,83.3,high,low,6,namesilo,,,
-3a26e4f2-9854-4f3b-a143-e666d221fe3c,cost.art,premium,3450,83.3,high,low,4,namesilo,,,
-7629b268-236c-4190-86fb-cef3f063022d,recent.art,premium,354.9,91,high,low,6,namecheap,,,27/09/2026 10:49
-0b961176-5d19-4857-8c17-4d0a303bc417,lentils.art,premium,62.48,83.3,medium,low,7,namesilo,,,21/09/2026 05:31
-5bfbf0bb-dbc3-499c-809b-b20c920d8b67,reside.art,premium,291.2,83.3,high,low,6,namesilo,,,24/09/2026 23:25
-ca8b88ec-c075-4dd1-ba81-ad48a863a999,blazing.art,premium,291.2,83.3,high,low,7,namesilo,,,10/08/2026 13:33
