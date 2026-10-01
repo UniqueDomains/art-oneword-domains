@@ -1,10 +1,10 @@
-# Available .ART One-Word Domains (26,195)
+# Available .ART One-Word Domains (28,498)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C195%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C498%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .art one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,195 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,498 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,195 domains · **Median ask:** $372.79 · **High-demand under $2,500:** 103
+**Public extract:** 1,000 rows · **Live catalog:** 28,498 domains · **Median ask:** $364.49 · **High-demand under $2,500:** 115
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/art`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
-| aglet.art   | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap                   |
-| eagle.art   | resell    | —         | —             | high           | low    | 5      | Instra Corporation Pty Ltd. |
-| acl.art     | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
-| golgi.art   | available | $3.19     | $23.99        | high           | low    | 5      | namesilo                    |
-| urban.art   | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                 |
-| amr.art     | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
-| iraki.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| florida.art | resell    | —         | —             | high           | medium | 7      | Instra Corporation Pty Ltd. |
-| ano.art     | premium   | $354.90   | $91           | high           | low    | 3      | namecheap                   |
-| jural.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| aus.art     | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
-| nubby.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| bcs.art     | premium   | $291.20   | $83.30        | high           | low    | 3      | namesilo                    |
-| uveal.art   | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
-| bmw.art     | premium   | $282.76   | $72.65        | high           | high   | 3      | spaceship                   |
-| alkene.art  | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
-| bob.art     | premium   | $1,950    | $91           | high           | medium | 3      | namecheap                   |
-| antido.art  | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
-| cns.art     | premium   | $354.90   | $91           | high           | low    | 3      | namecheap                   |
-| bailor.art  | available | $3.98     | $32.98        | medium         | low    | 6      | namecheap                   |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| aglet.art  | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap                   |
+| eagle.art  | resell    | —         | —             | high           | low    | 5      | Instra Corporation Pty Ltd. |
+| acl.art    | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
+| golgi.art  | available | $3.19     | $23.99        | high           | low    | 5      | namesilo                    |
+| urban.art  | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                 |
+| amr.art    | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
+| iraki.art  | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
+| ano.art    | premium   | $354.90   | $91           | high           | low    | 3      | namecheap                   |
+| jural.art  | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
+| aus.art    | premium   | $282.76   | $72.65        | high           | low    | 3      | spaceship                   |
+| nubby.art  | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
+| bcs.art    | premium   | $291.20   | $83.30        | high           | low    | 3      | namesilo                    |
+| uveal.art  | available | $3.19     | $23.99        | medium         | low    | 5      | namesilo                    |
+| bmw.art    | premium   | $282.76   | $72.65        | high           | high   | 3      | spaceship                   |
+| alkene.art | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
+| bob.art    | premium   | $1,950    | $91           | high           | medium | 3      | namecheap                   |
+| antido.art | available | $3.19     | $23.99        | medium         | low    | 6      | namesilo                    |
+| cns.art    | premium   | $354.90   | $91           | medium         | low    | 3      | namecheap                   |
+| bailor.art | available | $3.98     | $32.98        | medium         | low    | 6      | namecheap                   |
+| dud.art    | premium   | $341.25   | $87.50        | high           | low    | 3      | name.com                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,195 live domains                        |
+| 1,000-row public sample | 28,498 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 103 high-demand names under $2,500         |
+| Basic exported fields   | 115 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ART One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ART One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
